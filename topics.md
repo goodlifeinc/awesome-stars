@@ -245,6 +245,7 @@
 
 ## automation 
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [do-community/ansible-playbooks](https://github.com/do-community/ansible-playbooks) - Playbooks for automating server procedures based on our Community guides
@@ -255,6 +256,7 @@
 
 ## awesome 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [GuptaSiddhant/awesome-remix](https://github.com/GuptaSiddhant/awesome-remix) - A collection of awesome things regarding Remix-run ecosystem
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -271,6 +273,7 @@
 
 ## awesome-list 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
@@ -317,7 +320,7 @@
 ## bitcoin 
 
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
-- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - Trading bot framework for cryptocurrency at Binance in Go
+- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Cryptocurrency trading bot using technical analysis based strategy with an advanced web interface
 - [cassandre-tech/cassandre-trading-bot](https://github.com/cassandre-tech/cassandre-trading-bot) - Create your Java crypto trading bot in minutes. Our Spring boot starter takes care of exchange connections, accounts, orders, trades, and positions so you can focus on building your strategies.
 - [gazbert/bxbot](https://github.com/gazbert/bxbot) - A simple Bitcoin trading bot written in Java.
@@ -337,7 +340,7 @@
 ## bot 
 
 - [jareer12/DiscordBotPanel](https://github.com/jareer12/DiscordBotPanel) - 🎉 Manage your discord bots and node.js scripts with a web panel.
-- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - Trading bot framework for cryptocurrency at Binance in Go
+- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go
 - [microsoft/BotFramework-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly-customizable web-based client for Azure Bot Services.
 - [iilunin/crypto-bot](https://github.com/iilunin/crypto-bot) - Binance crypto bot which supports smart entry, trailing stop-losses and take profits, multiple exit targets, One-Cancels-the-Other functionality, UI Interface
 - [cassandre-tech/cassandre-trading-bot](https://github.com/cassandre-tech/cassandre-trading-bot) - Create your Java crypto trading bot in minutes. Our Spring boot starter takes care of exchange connections, accounts, orders, trades, and positions so you can focus on building your strategies.
@@ -400,7 +403,7 @@
 ## cryptocurrency 
 
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
-- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - Trading bot framework for cryptocurrency at Binance in Go
+- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Cryptocurrency trading bot using technical analysis based strategy with an advanced web interface
 - [cassandre-tech/cassandre-trading-bot](https://github.com/cassandre-tech/cassandre-trading-bot) - Create your Java crypto trading bot in minutes. Our Spring boot starter takes care of exchange connections, accounts, orders, trades, and positions so you can focus on building your strategies.
 - [gazbert/bxbot](https://github.com/gazbert/bxbot) - A simple Bitcoin trading bot written in Java.
@@ -434,7 +437,7 @@
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [coderitual/bounty](https://github.com/coderitual/bounty) - Javascript and SVG odometer effect library with motion blur
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - :mailbox: Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more! Made for @forwarde
+- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (in the browser and in the iOS Simulator), and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, a
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
@@ -580,7 +583,7 @@
 
 ## ethereum 
 
-- [tmm/wagmi](https://github.com/tmm/wagmi) - React Hooks for Ethereum
+- [wagmi-dev/wagmi](https://github.com/wagmi-dev/wagmi) - React Hooks for Ethereum
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 
@@ -676,6 +679,7 @@
 
 ## github 
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -683,11 +687,12 @@
 
 ## github-api 
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 
 ## go 
 
-- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - Trading bot framework for cryptocurrency at Binance in Go
+- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
@@ -706,7 +711,7 @@
 
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
-- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - Trading bot framework for cryptocurrency at Binance in Go
+- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -737,6 +742,7 @@
 - [CromwellCMS/Cromwell](https://github.com/CromwellCMS/Cromwell) - WordPress-like CMS for Next.js websites
 - [imranhsayed/woo-next](https://github.com/imranhsayed/woo-next) - :rocket: React WooCommerce theme, built with Next JS, Webpack, Babel, Node, Express, using GraphQL and Apollo Client
 - [w3bdesign/nextjs-woocommerce](https://github.com/w3bdesign/nextjs-woocommerce) - Next.js (React) eCommerce site with WooCommerce backend
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -760,7 +766,7 @@
 - [LibrePDF/OpenPDF](https://github.com/LibrePDF/OpenPDF) - OpenPDF is a free Java library for creating and editing PDF files with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please f
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - Trading bot framework for cryptocurrency at Binance in Go
+- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -907,6 +913,8 @@
 
 ## javascript 
 
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! ✨🦁🚀✨
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
@@ -924,7 +932,7 @@
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [solana-labs/solana-web3.js](https://github.com/solana-labs/solana-web3.js) - Solana JavaScript SDK
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
-- [TanStack/react-location](https://github.com/TanStack/react-location) - ⚛️ Enterprise Client-Side Routing for React
+- [TanStack/location](https://github.com/TanStack/location) - ⚛️ Enterprise Client-Side Routing for React
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [willianantunes/nextjs-playground](https://github.com/willianantunes/nextjs-playground) - Production grade React applications that scale? Let's see it!
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -1267,6 +1275,7 @@
 
 ## node 
 
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
 - [jareer12/DiscordBotPanel](https://github.com/jareer12/DiscordBotPanel) - 🎉 Manage your discord bots and node.js scripts with a web panel.
 - [solana-labs/solana-web3.js](https://github.com/solana-labs/solana-web3.js) - Solana JavaScript SDK
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
@@ -1277,7 +1286,7 @@
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - :mailbox: Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more! Made for @forwarde
+- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (in the browser and in the iOS Simulator), and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, a
 
 ## nodejs 
 
@@ -1324,7 +1333,7 @@
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
-- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - :mailbox: Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more! Made for @forwarde
+- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (in the browser and in the iOS Simulator), and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, a
 - [jedireza/hapi-react-views](https://github.com/jedireza/hapi-react-views) - :package: A hapi view engine for React components
 - [AdrieanKhisbe/configue](https://github.com/AdrieanKhisbe/configue) - ⚙️ Configue All the Things.js 🔧
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the W3C Webdriver API
@@ -1756,6 +1765,7 @@
 
 ## react 
 
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [OlegWock/react-local-toast](https://github.com/OlegWock/react-local-toast) - Local toast helps you to provide feedback related to particular components on page
 - [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! ✨🦁🚀✨
@@ -1771,7 +1781,7 @@
 - [itsMapleLeaf/remix-electron](https://github.com/itsMapleLeaf/remix-electron) - Electron integration for Remix ⚛💿
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [rakannimer/react-google-charts](https://github.com/rakannimer/react-google-charts) - A thin, typed, React wrapper over Google Charts Visualization and Charts API.
-- [tmm/wagmi](https://github.com/tmm/wagmi) - React Hooks for Ethereum
+- [wagmi-dev/wagmi](https://github.com/wagmi-dev/wagmi) - React Hooks for Ethereum
 - [nxtexe/react-motion-router](https://github.com/nxtexe/react-motion-router) - Declarative routing library for React ⚛ with page transitions and animations out of the box. Under Development 🧪.
 - [iamyoki/transition-hook](https://github.com/iamyoki/transition-hook) - ☄️  An extremely light-weight react transition animation hook which is simpler and easier to use than react-transition-group
 - [DTStack/molecule](https://github.com/DTStack/molecule) - :rocket: A lightweight Web IDE UI framework.
@@ -1795,7 +1805,7 @@
 - [lahmatiy/react-render-tracker](https://github.com/lahmatiy/react-render-tracker) - React render tracker – a tool to discover performance issues related to unintentional re-renders and unmounts
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming SSR React Framework in Deno
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
-- [TanStack/react-location](https://github.com/TanStack/react-location) - ⚛️ Enterprise Client-Side Routing for React
+- [TanStack/location](https://github.com/TanStack/location) - ⚛️ Enterprise Client-Side Routing for React
 - [mvasin/react-div-100vh](https://github.com/mvasin/react-div-100vh) - A workaround for the '100vh' issue in mobile browsers
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Essential React custom hooks ⚓ to super charge your components!
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
@@ -1814,7 +1824,7 @@
 - [bokuweb/react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - :sparkles: A sortable and resizable pane component for React.
 - [bokuweb/react-rnd](https://github.com/bokuweb/react-rnd) - 🖱  A resizable and draggable component for React.
 - [bokuweb/re-resizable](https://github.com/bokuweb/re-resizable) - 📏  A resizable component for React.
-- [umijs/hox](https://github.com/umijs/hox) - The next-generation state manager for React.
+- [umijs/hox](https://github.com/umijs/hox) - State sharing for React components.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄
 - [princefishthrower/react-use-please-stay](https://github.com/princefishthrower/react-use-please-stay) - A React hook that animates the document title and/or favicon when focus from the page is lost.
 - [bytedance/guide](https://github.com/bytedance/guide) - A new feature guide component by react 🧭
@@ -1924,7 +1934,7 @@
 - [frontend-collective/react-image-lightbox](https://github.com/frontend-collective/react-image-lightbox) - React lightbox component
 - [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [kutlugsahin/react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd) - react wrapper components for smooth-dnd
-- [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - 🔎 Medium.com style image zoom for React 🔍
+- [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - 🔎 🏞 Medium.com style image zoom for React
 - [jedireza/hapi-react-views](https://github.com/jedireza/hapi-react-views) - :package: A hapi view engine for React components
 - [akiran/react-slick](https://github.com/akiran/react-slick) - React carousel component
 - [codingphasedotcom/rocky](https://github.com/codingphasedotcom/rocky) - React Over Crystal Kemal and Yarn
@@ -1971,7 +1981,7 @@
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Essential React custom hooks ⚓ to super charge your components!
 - [alvarotrigo/react-fullpage](https://github.com/alvarotrigo/react-fullpage) - Official React.js wrapper for fullPage.js https://alvarotrigo.com/react-fullpage/
 - [luukdv/gooey-react](https://github.com/luukdv/gooey-react) - The gooey effect for React, used for shape blobbing / metaballs (0.5 KB) 🧽
-- [umijs/hox](https://github.com/umijs/hox) - The next-generation state manager for React.
+- [umijs/hox](https://github.com/umijs/hox) - State sharing for React components.
 - [rootstrap/react-base](https://github.com/rootstrap/react-base) - React-Redux boilerplate
 - [schadokar/go-to-do-app](https://github.com/schadokar/go-to-do-app) - This is a to-do list application. It's server is created in Golang, db is mongodb and client is in React.
 - [devias-io/material-kit-react](https://github.com/devias-io/material-kit-react) - React Dashboard made with Material UI’s components. Our pro template contains features like TypeScript version, authentication system with Firebase and Auth0 plus many other
@@ -1991,7 +2001,7 @@
 - [MicheleBertoli/react-automata](https://github.com/MicheleBertoli/react-automata) - A state machine abstraction for React
 - [FormidableLabs/nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) - Pure React Carousel Component
 - [kutlugsahin/react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd) - react wrapper components for smooth-dnd
-- [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - 🔎 Medium.com style image zoom for React 🔍
+- [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - 🔎 🏞 Medium.com style image zoom for React
 
 ## redux 
 
@@ -2085,7 +2095,7 @@
 
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [superfly/fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance & reliability testing for developers & SREs
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
 - [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 
@@ -2199,6 +2209,7 @@
 
 ## typescript 
 
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
 - [akheron/optics-ts](https://github.com/akheron/optics-ts) - Type-safe, ergonomic, polymorphic optics for TypeScript
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
@@ -2206,7 +2217,7 @@
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [rakannimer/react-google-charts](https://github.com/rakannimer/react-google-charts) - A thin, typed, React wrapper over Google Charts Visualization and Charts API.
 - [sergiodxa/use-mutation](https://github.com/sergiodxa/use-mutation) - 🧬 Run side-effects safely in React
-- [tmm/wagmi](https://github.com/tmm/wagmi) - React Hooks for Ethereum
+- [wagmi-dev/wagmi](https://github.com/wagmi-dev/wagmi) - React Hooks for Ethereum
 - [DTStack/molecule](https://github.com/DTStack/molecule) - :rocket: A lightweight Web IDE UI framework.
 - [wellyshen/react-cool-img](https://github.com/wellyshen/react-cool-img) - 😎 🏞 A React &lt;Img /&gt; component let you handle image UX and performance as a Pro!
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
@@ -2266,7 +2277,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - 🔎 Medium.com style image zoom for React 🔍
+- [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - 🔎 🏞 Medium.com style image zoom for React
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
