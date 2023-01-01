@@ -144,6 +144,7 @@
 - [shell](#shell)
 - [sketch](#sketch)
 - [software](#software)
+- [solidity](#solidity)
 - [spring](#spring)
 - [spring-boot](#spring-boot)
 - [sql](#sql)
@@ -354,6 +355,7 @@
 ## blockchain 
 
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [solana-labs/solana-web3.js](https://github.com/solana-labs/solana-web3.js) - Solana JavaScript SDK
 
 ## bootstrap 
@@ -391,6 +393,7 @@
 
 ## cli 
 
+- [tsedio/tsed](https://github.com/tsedio/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code mo
 - [mdbetancourt/soly](https://github.com/mdbetancourt/soly) - Powerful framework for building command-line apps with typescript.
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
 - [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
@@ -545,6 +548,7 @@
 
 ## devops 
 
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark 
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
@@ -577,7 +581,7 @@
 - [Azure/aks-engine](https://github.com/Azure/aks-engine) - AKS Engine: legacy tool for Kubernetes on Azure (see status)
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
-- [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx (with PHP5 and PHP7)
+- [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx
 
 ## documentation 
 
@@ -642,6 +646,7 @@
 
 ## express 
 
+- [tsedio/tsed](https://github.com/tsedio/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code mo
 - [imranhsayed/woo-next](https://github.com/imranhsayed/woo-next) - :rocket: React WooCommerce theme, built with Next JS, Webpack, Babel, Node, Express, using GraphQL and Apollo Client
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [atulmy/crate](https://github.com/atulmy/crate) - 👕 👖 📦  A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of
@@ -756,6 +761,7 @@
 
 ## go 
 
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -774,6 +780,7 @@
 
 ## golang 
 
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark 
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
@@ -832,6 +839,7 @@
 
 ## hacktoberfest 
 
+- [tsedio/tsed](https://github.com/tsedio/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code mo
 - [pheralb/slug](https://github.com/pheralb/slug) - 🌱 A URL shortener built with T3 Stack: Nextjs 13 + Tailwind CSS + Typescript + tRPC v10 + NextAuth.js & Prisma.
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
 - [podkrepi-bg/frontend](https://github.com/podkrepi-bg/frontend) - Charity platform https://podkrepi.bg Docs https://docs.podkrepi.bg
@@ -919,7 +927,7 @@
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 
@@ -1018,6 +1026,7 @@
 
 ## javascript 
 
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [acf-extended/ACF-Extended](https://github.com/acf-extended/ACF-Extended) - 🚀 All-in-one enhancement suite that improves WordPress & Advanced Custom Fields
 - [Automattic/vip-go-nextjs-skeleton](https://github.com/Automattic/vip-go-nextjs-skeleton) - A Next.js boilerplate for decoupled WordPress on VIP.
 - [Level/level](https://github.com/Level/level) - Universal abstract-level database for Node.js and browsers.
@@ -1178,7 +1187,7 @@
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [tediousjs/node-mssql](https://github.com/tediousjs/node-mssql) - Microsoft SQL Server client for Node.js
@@ -1218,6 +1227,7 @@
 ## json 
 
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+- [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -1232,6 +1242,7 @@
 
 ## koa 
 
+- [tsedio/tsed](https://github.com/tsedio/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code mo
 - [eggjs/egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 - [ladjs/lad](https://github.com/ladjs/lad) - Node.js framework made by a former @expressjs TC and @koajs team member. Built for @forwardemail, @spamscanner, @breejs, @cabinjs, and @lassjs.
 
@@ -1243,6 +1254,7 @@
 
 ## kubernetes 
 
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark 
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
@@ -1272,7 +1284,7 @@
 
 ## library 
 
-- [Theryston/jsx-mail](https://github.com/Theryston/jsx-mail) - A framework to create the look of your emails. 🚀✉️
+- [Theryston/jsx-mail](https://github.com/Theryston/jsx-mail) - Building the future of email with JSX syntax 📜
 - [transitive-bullshit/react-modern-library-boilerplate](https://github.com/transitive-bullshit/react-modern-library-boilerplate) - Boilerplate for publishing modern React modules with Rollup
 - [jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again
 - [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
@@ -1329,7 +1341,7 @@
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
-- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 5, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 
@@ -1370,6 +1382,7 @@
 
 ## mysql 
 
+- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - Node E-commerce Platform
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
@@ -1437,6 +1450,7 @@
 
 ## nodejs 
 
+- [tsedio/tsed](https://github.com/tsedio/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code mo
 - [Level/level](https://github.com/Level/level) - Universal abstract-level database for Node.js and browsers.
 - [iamtraction/google-translate](https://github.com/iamtraction/google-translate) - 🈯 A Node.JS library to consume Google Translate API for free.
 - [pillarjs/router](https://github.com/pillarjs/router) - Simple middleware-style router
@@ -1523,11 +1537,18 @@
 
 ## open-source 
 
+- [tsedio/tsed](https://github.com/tsedio/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code mo
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## others 
 
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+- [google/forma](https://github.com/google/forma) - An efficient vector-graphics renderer
+- [Arrendy/gpt3-vscode-extension](https://github.com/Arrendy/gpt3-vscode-extension) - Use GPT-3 to generate documentation and get help debugging your code
+- [cnrad/use-smooth-count](https://github.com/cnrad/use-smooth-count) - 📈 Easily interpolate to a provided value with a simple React hook.
+- [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
+- [zenorocha/react-email](https://github.com/zenorocha/react-email) - 💌 Build and send emails using React
 - [sindresorhus/p-retry](https://github.com/sindresorhus/p-retry) - Retry a promise-returning or async function
 - [oculus42/short-uuid](https://github.com/oculus42/short-uuid) - Translate standard UUIDs into shorter formats and back.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
@@ -1539,7 +1560,7 @@
 - [gdinko/prim](https://github.com/gdinko/prim) - Laravel Prim API Wrapper
 - [salesforce/tough-cookie](https://github.com/salesforce/tough-cookie) - RFC6265 Cookies and CookieJar for Node.js
 - [hapijs/hoek](https://github.com/hapijs/hoek) - Node utilities shared among the extended hapi universe
-- [LegendApp/legend-state](https://github.com/LegendApp/legend-state) - 
+- [LegendApp/legend-state](https://github.com/LegendApp/legend-state) - Legend-State is a super fast and powerful state library that enables fine-grained reactivity and easy automatic persistence
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [WebDevStudios/wds-headless-core](https://github.com/WebDevStudios/wds-headless-core) - The core WordPress plugin for the Next.js WordPress Starter.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -1558,7 +1579,7 @@
 - [BytemarkHosting/docker-smtp](https://github.com/BytemarkHosting/docker-smtp) - Docker image for sending outgoing mail
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (228B) utility for constructing `className` strings conditionally.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [replicate/inpainter](https://github.com/replicate/inpainter) - A web GUI for inpainting with Stable Diffusion using the Replicate API.
+- [replicate/inpainter](https://github.com/replicate/inpainter) - A web GUI built with Next.js for inpainting with Stable Diffusion using the Replicate API.
 - [kentcdodds/use-deep-compare-effect](https://github.com/kentcdodds/use-deep-compare-effect) - 🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly
 - [denoland/showcase_chat](https://github.com/denoland/showcase_chat) - 
@@ -1899,7 +1920,7 @@
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
 - [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - sample code for several design patterns in PHP 8
-- [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx (with PHP5 and PHP7)
+- [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension.
 
 ## pixel-art 
@@ -1958,6 +1979,7 @@
 
 ## react 
 
+- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - Node E-commerce Platform
 - [podkrepi-bg/frontend](https://github.com/podkrepi-bg/frontend) - Charity platform https://podkrepi.bg Docs https://docs.podkrepi.bg
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -2007,7 +2029,7 @@
 - [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
 - [mirshko/next-web3-boilerplate](https://github.com/mirshko/next-web3-boilerplate) - Slightly opinionated Next.js Web3 boilerplate built on ethers, web3-react, Typechain, and SWR.
 - [lahmatiy/react-render-tracker](https://github.com/lahmatiy/react-render-tracker) - React render tracker – a tool to discover performance issues related to unintentional re-renders and unmounts
-- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 🧙 Zero-Legacy Deno/React Suspense SSR Framework
+- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
 - [mvasin/react-div-100vh](https://github.com/mvasin/react-div-100vh) - A workaround for the '100vh' issue in mobile browsers
@@ -2172,6 +2194,7 @@
 
 ## reactjs 
 
+- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - Node E-commerce Platform
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [fabienjuif/use-bus](https://github.com/fabienjuif/use-bus) - React hook to subscribe and dispatch events accros React components
 - [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that utilizes the power of CSS animations to create silky smooth marquees.
@@ -2232,6 +2255,7 @@
 
 ## rest-api 
 
+- [tsedio/tsed](https://github.com/tsedio/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code mo
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [imranhsayed/woo-next](https://github.com/imranhsayed/woo-next) - :rocket: React WooCommerce theme, built with Next JS, Webpack, Babel, Node, Express, using GraphQL and Apollo Client
 - [gazbert/bxbot](https://github.com/gazbert/bxbot) - A simple Bitcoin trading bot written in Java.
@@ -2252,6 +2276,7 @@
 
 ## rust 
 
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [gbj/leptos](https://github.com/gbj/leptos) - Build fast web applications with Rust.
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
@@ -2333,6 +2358,10 @@
 ## software 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## solidity 
+
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
 
 ## spring 
 
@@ -2435,6 +2464,7 @@
 
 ## typescript 
 
+- [tsedio/tsed](https://github.com/tsedio/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code mo
 - [pheralb/slug](https://github.com/pheralb/slug) - 🌱 A URL shortener built with T3 Stack: Nextjs 13 + Tailwind CSS + Typescript + tRPC v10 + NextAuth.js & Prisma.
 - [podkrepi-bg/frontend](https://github.com/podkrepi-bg/frontend) - Charity platform https://podkrepi.bg Docs https://docs.podkrepi.bg
 - [podkrepi-bg/api](https://github.com/podkrepi-bg/api) - Nest.js REST backend for charity platform Podkrepi.bg https://podkrepi.bg/swagger
@@ -2468,7 +2498,7 @@
 - [spences10/react-seo-component](https://github.com/spences10/react-seo-component) - A React SEO component
 - [thisismydesign/nestjs-starter](https://github.com/thisismydesign/nestjs-starter) - NestJS MVC boilerplate for rapid development with battle-tested standards.
 - [mirshko/next-web3-boilerplate](https://github.com/mirshko/next-web3-boilerplate) - Slightly opinionated Next.js Web3 boilerplate built on ethers, web3-react, Typechain, and SWR.
-- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 🧙 Zero-Legacy Deno/React Suspense SSR Framework
+- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Essential React custom hooks ⚓ to super charge your components!
 - [arcatdmz/nextjs-with-jest-typescript](https://github.com/arcatdmz/nextjs-with-jest-typescript) - A very simple example of Next.js-based website with Jest tests, all written in TypeScript
@@ -2558,7 +2588,7 @@
 - [text-mask/text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
-- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
+- [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 
 ## web 
 
