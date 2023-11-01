@@ -30,6 +30,7 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [Python](#python)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
 - [SVG](#svg)
@@ -245,6 +246,15 @@
 
 ## JavaScript 
 
+- [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
+- [gofunky/trumpet](https://github.com/gofunky/trumpet) - parse and transform streaming html using css selectors
+- [dominictarr/hoox](https://github.com/dominictarr/hoox) - 
+- [goxr3plus/TradingView_GoldenIndicator](https://github.com/goxr3plus/TradingView_GoldenIndicator) - 📈 TradingView -  ( Day Trading or Long Term Trading ) Indicator
+- [Vincit/objection-graphql](https://github.com/Vincit/objection-graphql) - GraphQL schema generator for objection.js
+- [teamzerolabs/api-express-exporter](https://github.com/teamzerolabs/api-express-exporter) - api-express-exporter is a prometheus exporter that helps you track express api requests. Plug it in and start monitoring express api requests!
+- [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
+- [rcruzper/express-actuator](https://github.com/rcruzper/express-actuator) - Express middleware with endpoints to help you monitor and manage applications
+- [reactjs/react-tabs](https://github.com/reactjs/react-tabs) - An accessible and easy tab component for ReactJS.
 - [viviedu/signalr-node](https://github.com/viviedu/signalr-node) - 
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~1.5KB routing for React and Preact. Nothing else but HOOKS.
 - [tehcojam/signalr-no-jquery](https://github.com/tehcojam/signalr-no-jquery) - 
@@ -252,7 +262,7 @@
 - [hapijs/hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Single Page Application. Contributions welcome! Used on some of our biggest websites, e.g.
 - [nksaraf/vinxi](https://github.com/nksaraf/vinxi) - The JavaScript Server SDK
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine) - 🧘‍♂️ Open-source no-code & code web app builder
 - [anseki/plain-draggable](https://github.com/anseki/plain-draggable) - The simple and high performance library to allow HTML/SVG element to be dragged.
@@ -273,7 +283,7 @@
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer/Uint8Array/ArrayBuffer
 - [skozer/react-instagram-zoom-slider](https://github.com/skozer/react-instagram-zoom-slider) - 🌄↔️ A slider component with pinch to zoom capabilities inspired by Instagram
 - [zciluk/automation-roadmap](https://github.com/zciluk/automation-roadmap) - 
-- [shopperlabs/shopper](https://github.com/shopperlabs/shopper) - An eCommerce  administration built with Laravel to create and manage online shop with multi-vendor.
+- [shopperlabs/shopper](https://github.com/shopperlabs/shopper) - Headless e-commerce administration built with Laravel to create and manage online store.
 - [kirilkirkov/Ecommerce-Laravel-Bootstrap](https://github.com/kirilkirkov/Ecommerce-Laravel-Bootstrap) - Responsive, Multi-Vendor, MultiLanguage Online Store Platform (shopping cart solution)
 - [sammdec/use-cart](https://github.com/sammdec/use-cart) - A tiny react hook for integrating an e-commerce cart into your app
 - [amqp-node/amqplib](https://github.com/amqp-node/amqplib) - AMQP 0-9-1 library and client for Node.JS
@@ -356,7 +366,6 @@
 - [jcblw/react-sprite-animator](https://github.com/jcblw/react-sprite-animator) - A React component that animates simple spritesheets
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
-- [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
 - [bspk/mkjwk.org](https://github.com/bspk/mkjwk.org) - 
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [willianantunes/nextjs-playground](https://github.com/willianantunes/nextjs-playground) - Production grade React applications that scale? Let's see it!
@@ -374,7 +383,6 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 - [pasdo501/gatsby-source-woocommerce](https://github.com/pasdo501/gatsby-source-woocommerce) - Gatsy Source Plugin for WooCommerce
-- [Simply-Static/simply-static](https://github.com/Simply-Static/simply-static) - Convert your WordPress site into a static one with the free WordPress static site generator plugin, Simply Static.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [DevExpress/DevExtreme](https://github.com/DevExpress/DevExtreme) - HTML5 JavaScript Component Suite for Responsive Web Development
 - [krasimir/miss-piggy](https://github.com/krasimir/miss-piggy) - Test runner for Puppeteer
@@ -607,7 +615,7 @@
 - [wagerfield/parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
 - [akiran/react-slick](https://github.com/akiran/react-slick) - React carousel component
 - [observing/pre-commit](https://github.com/observing/pre-commit) - Automatically installs a git pre-commit script in your git repository which runs your `npm test` on pre-commit
-- [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
 - [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
 - [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
 - [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/
@@ -694,7 +702,7 @@
 ## MDX 
 
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 
 ## OCaml 
 
@@ -702,6 +710,7 @@
 
 ## Others 
 
+- [Al0010/grid-spot-algorithm-trading](https://github.com/Al0010/grid-spot-algorithm-trading) - Grid trading model for algorithmic trading. Script strategy for Trading View. Copy and paste the code on your Pine console. Backtest the strategy for a spot market.
 - [pAulseperformance/awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript) - A Comprehensive Collection of Everything Related to Tradingview Pine Script.
 - [geraked/tradingview](https://github.com/geraked/tradingview) - Implementation of Trading Strategies for Backtesting in TradingView
 - [FiloSottile/awesome-age](https://github.com/FiloSottile/awesome-age) - A collection of projects and resources in the age file encryption ecosystem.
@@ -785,6 +794,7 @@
 - [gdinko/speedy](https://github.com/gdinko/speedy) - Laravel Speedy API Wrapper
 - [nicholas-wordpress/nearly-headless-theme](https://github.com/nicholas-wordpress/nearly-headless-theme) - Boilerplate used to build nearly-headless WordPress themes
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP
+- [Simply-Static/simply-static](https://github.com/Simply-Static/simply-static) - Convert your WordPress site into a static one with the free WordPress static site generator plugin, Simply Static.
 - [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer, easier configuration, and an improved folder structure
 - [governmentbg/data-gov-bg](https://github.com/governmentbg/data-gov-bg) - Проект BG05SFOP001-2.001-0001 „Подобряване на процесите, свързани с предоставянето,  достъпа и повторното използване на информацията от обществения сектор“; Licensed under the EUPL
 - [Codeception/Codeception](https://github.com/Codeception/Codeception) - Full-stack testing PHP framework
@@ -812,6 +822,7 @@
 
 ## Python 
 
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [51bitquant/binance-tradingview-webhook-bot](https://github.com/51bitquant/binance-tradingview-webhook-bot) - A tradingview webhook trading bot for Binance Exchange.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports LLaMa2, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
@@ -843,8 +854,13 @@
 - [easy-tensorflow/easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 
+## Ruby 
+
+- [dependabot/dependabot-script](https://github.com/dependabot/dependabot-script) - A simple script that demonstrates how to use Dependabot Core
+
 ## Rust 
 
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -934,6 +950,13 @@
 
 ## TypeScript 
 
+- [localvoid/ivi](https://github.com/localvoid/ivi) - Lighweight Embeddable Web UI Library
+- [eclipse-glsp/glsp](https://github.com/eclipse-glsp/glsp) - Graphical language server platform for building web-based diagram editors
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [codaworks/react-glow](https://github.com/codaworks/react-glow) - 
+- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
+- [sor4chi/hono-react-render-to-readable-stream](https://github.com/sor4chi/hono-react-render-to-readable-stream) - 
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [alex8088/node-signalr](https://github.com/alex8088/node-signalr) - A signalR client for node.js which support ASP.net but not ASP.net Core.
@@ -941,7 +964,7 @@
 - [IndexXuan/vite-plugin-mpa](https://github.com/IndexXuan/vite-plugin-mpa) - MPA(multi page application) for vite.
 - [onury/accesscontrol](https://github.com/onury/accesscontrol) - Role and Attribute based Access Control for Node.js
 - [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
-- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
 - [nanojsx/nano](https://github.com/nanojsx/nano) - 🎯 SSR first, lightweight 1kB JSX library.
@@ -954,7 +977,7 @@
 - [FiloSottile/age.ts](https://github.com/FiloSottile/age.ts) - A TypeScript implementation of the age file encryption format, based on libsodium.
 - [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
 - [yassinedoghri/astro-i18next](https://github.com/yassinedoghri/astro-i18next) - An astro integration of i18next + some utility components to help you translate your astro websites!
-- [cheetahstudio/cheetah](https://github.com/cheetahstudio/cheetah) - A framework for the modern web. | Cooking v2.0!
+- [cheetahstudio/cheetah](https://github.com/cheetahstudio/cheetah) - A framework for the modern web.
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [mozmorris/react-webcam](https://github.com/mozmorris/react-webcam) - Webcam component
 - [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
@@ -1108,7 +1131,7 @@
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [CromwellCMS/Cromwell](https://github.com/CromwellCMS/Cromwell) - WordPress-like CMS for Next.js websites
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework, a npm package solution and a build tool.
-- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,739+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De
+- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2800+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any Des
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [alibaba/designable](https://github.com/alibaba/designable) - 🧩 Make everything designable 🧩
 - [spences10/react-seo-component](https://github.com/spences10/react-seo-component) - A React SEO component
@@ -1127,6 +1150,7 @@
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [mvasin/react-div-100vh](https://github.com/mvasin/react-div-100vh) - A workaround for the '100vh' issue in mobile browsers
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Essential React custom hooks ⚓ to super charge your components!
+- [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [arcatdmz/nextjs-with-jest-typescript](https://github.com/arcatdmz/nextjs-with-jest-typescript) - A very simple example of Next.js-based website with Jest tests, all written in TypeScript
 - [w3bdesign/nextjs-woocommerce](https://github.com/w3bdesign/nextjs-woocommerce) - 🔥 Next.js (React) headless eCommerce site with Typescript, WordPress (WooCommerce) backend and Algolia search
@@ -1151,7 +1175,7 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [cpojer/copy-as-markdown](https://github.com/cpojer/copy-as-markdown) - A React hook to copy text as Markdown.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [unlayer/react-email-editor](https://github.com/unlayer/react-email-editor) - Drag-n-Drop Email Editor Component for React.js
 - [ice-lab/icestark](https://github.com/ice-lab/icestark) - :tiger: Micro Frontends solution for large application（面向大型应用的微前端解决方案），站点国内镜像：https://icestark.gitee.io
