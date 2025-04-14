@@ -6,7 +6,6 @@
 ## Contents
 
 - [Assembly](#assembly)
-- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [Blade](#blade)
 - [C](#c)
@@ -55,10 +54,6 @@
 ## Assembly 
 
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-
-## Astro 
-
-- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress].
 
 ## Batchfile 
 
@@ -146,6 +141,7 @@
 
 ## Go 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI agents like Claude Code and Aider. 10x your productivity
 - [contabo/terraform-provider-contabo](https://github.com/contabo/terraform-provider-contabo) - Terraform Provider for Contabo Cloud-Services
@@ -170,7 +166,7 @@
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
@@ -230,6 +226,7 @@
 
 ## HTML 
 
+- [ganatan/angular-app](https://github.com/ganatan/angular-app) - Angular 19 Fullstack Application: SSR, PWA, SEO, and Scalable Node.js Javascript Backend with MySQL, PostgreSQL
 - [eladnava/mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
 - [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
 - [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
@@ -324,7 +321,6 @@
 - [yosuke-furukawa/httpstat](https://github.com/yosuke-furukawa/httpstat) - httpstat node implementation
 - [kmalinich/node-bmw-client](https://github.com/kmalinich/node-bmw-client) - A node.js powered interface for E38/E39/E53 + E6x/E9x BMW vehicles (Client side)
 - [jimmykane/fit-parser](https://github.com/jimmykane/fit-parser) - Parse your FIT files easily, directly from JS (Garmin, Polar, Suunto)
-- [ganatan/angular-app](https://github.com/ganatan/angular-app) - Angular 19 Fullstack Application: SSR, PWA, SEO, and Scalable Node.js Typescript & Javascript Backend with MySQL, PostgreSQL, MongoDB
 - [jochen-schweizer/express-prom-bundle](https://github.com/jochen-schweizer/express-prom-bundle) - express middleware with standard prometheus metrics in one bundle
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
@@ -1133,6 +1129,7 @@
 
 ## SCSS 
 
+- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress].
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 
