@@ -1078,7 +1078,7 @@
 
 ## Ruby 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [dependabot/dependabot-script](https://github.com/dependabot/dependabot-script) - A simple script that demonstrates how to use Dependabot Core
 
 ## Rust 
