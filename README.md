@@ -28,7 +28,6 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MDX](#mdx)
-- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [OCaml](#ocaml)
 - [Others](#others)
@@ -70,7 +69,7 @@
 - [ktock/qemu-wasm](https://github.com/ktock/qemu-wasm) - QEMU on browser
 - [gopro/gpmf-parser](https://github.com/gopro/gpmf-parser) - Parser for GPMF™ formatted telemetry data used within GoPro® cameras.
 - [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) - The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 
@@ -82,6 +81,7 @@
 
 ## C++ 
 
+- [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range o
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [sebi2k1/node-can](https://github.com/sebi2k1/node-can) - NodeJS SocketCAN extension
@@ -130,7 +130,7 @@
 
 ## Dart 
 
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
@@ -142,6 +142,7 @@
 
 ## Go 
 
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI agents like Codex, Claude Code, and Aider. 10x your productivity
@@ -228,7 +229,6 @@
 ## HTML 
 
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
-- [ganatan/angular-app](https://github.com/ganatan/angular-app) - Angular 19 Fullstack App with SSR, PWA, SEO, and Node.js backend
 - [eladnava/mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
 - [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
 - [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
@@ -313,7 +313,7 @@
 
 ## JavaScript 
 
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [shspage/illustrator-scripts](https://github.com/shspage/illustrator-scripts) - JavaScript scripts for Adobe Illustrator CSx.
 - [absolute-version/commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) - Fork of the excellent standard-version. Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org :trophy:
@@ -325,6 +325,7 @@
 - [yosuke-furukawa/httpstat](https://github.com/yosuke-furukawa/httpstat) - httpstat node implementation
 - [kmalinich/node-bmw-client](https://github.com/kmalinich/node-bmw-client) - A node.js powered interface for E38/E39/E53 + E6x/E9x BMW vehicles (Client side)
 - [jimmykane/fit-parser](https://github.com/jimmykane/fit-parser) - Parse your FIT files easily, directly from JS (Garmin, Polar, Suunto)
+- [ganatan/angular-app](https://github.com/ganatan/angular-app) - Angular 19 Fullstack App with SSR, PWA, SEO, and Node.js backend
 - [jochen-schweizer/express-prom-bundle](https://github.com/jochen-schweizer/express-prom-bundle) - express middleware with standard prometheus metrics in one bundle
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
@@ -460,7 +461,6 @@
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [ggascoigne/prettier-plugin-import-sort](https://github.com/ggascoigne/prettier-plugin-import-sort) - Prettier plugin to pass javascript and typescript through import-sort
 - [tylerwolff/useCookie](https://github.com/tylerwolff/useCookie) - A React hook for managing cookies with no dependencies.
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
 - [krasimir/simpre](https://github.com/krasimir/simpre) - HTML presentation framework
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
@@ -814,10 +814,6 @@
 
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 
-## Makefile 
-
-- [0xType/0xProto](https://github.com/0xType/0xProto) - A programming font focused on source code legibility
-
 ## Markdown 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -982,6 +978,7 @@
 
 ## Perl 
 
+- [ipfire/ipfire-2.x](https://github.com/ipfire/ipfire-2.x) - IPFire 2.x development tree
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 ## PowerShell 
@@ -990,6 +987,7 @@
 
 ## Python 
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
 - [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) - Python 3 API wrapper for Garmin Connect to get activity statistics
 - [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) - Transparent and Efficient Financial Analysis
@@ -1025,6 +1023,7 @@
 - [soranoo/TradingView-Free-Webhook-Alerts](https://github.com/soranoo/TradingView-Free-Webhook-Alerts) - Free TradingView webhook alert for basic plan users.
 - [philipxjm/Deep-Convolution-Stock-Technical-Analysis](https://github.com/philipxjm/Deep-Convolution-Stock-Technical-Analysis) - Uses Deep Convolutional Neural Networks (CNNs) to model the stock market using technical analysis. Predicts the future trend of stock selections.
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
+- [0xType/0xProto](https://github.com/0xType/0xProto) - A programming font focused on source code legibility
 - [iterativv/NostalgiaForInfinity](https://github.com/iterativv/NostalgiaForInfinity) - Trading strategy for the Freqtrade crypto bot
 - [hackingthemarkets/supertrend-crypto-bot](https://github.com/hackingthemarkets/supertrend-crypto-bot) - supertrend bot using python, pandas, and ccxt
 - [Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance](https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance) - Crypto Trading Bots in Python - Triangular Arbitrage, Beginner & Advanced Cryptocurrency Trading Bots Written in Python
@@ -1200,6 +1199,7 @@
 ## Svelte 
 
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Swift 
 
@@ -1208,6 +1208,7 @@
 
 ## TypeScript 
 
+- [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A React Framework for Cloudflare.
 - [signcl/docusaurus-prince-pdf](https://github.com/signcl/docusaurus-prince-pdf) - Docusaurus/Fumadocs/etc PDF generator using Prince XML
 - [flash-oss/medici](https://github.com/flash-oss/medici) - Double-entry accounting system for nodejs + mongoose
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
@@ -1327,7 +1328,7 @@
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and dependability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
 - [sergiodxa/remix-hono](https://github.com/sergiodxa/remix-hono) - Hono middlewares for Remix
