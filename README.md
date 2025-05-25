@@ -1218,6 +1218,7 @@
 
 ## TypeScript 
 
+- [yusukebe/vite-ssr-components](https://github.com/yusukebe/vite-ssr-components) - JSX Components and Vite plugins for SSR apps
 - [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV) - https://hellocsv.github.io/HelloCSV/
 - [pj-labs/angular-ssr-docker](https://github.com/pj-labs/angular-ssr-docker) - Angular SSR Demo
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
