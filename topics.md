@@ -277,7 +277,7 @@
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
-- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is the App Store for LLM tools. Your API ⇒ Paid MCP. Instantly.
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is RapidAPI for LLM Tools. Your API ⇒ Paid MCP. Instantly.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [hfreire/get-me-a-date](https://github.com/hfreire/get-me-a-date) - :heart_eyes: Help me get a :cupid: date tonight :first_quarter_moon_with_face:
@@ -639,6 +639,7 @@
 
 ## cli 
 
+- [shinshin86/oh-my-logo](https://github.com/shinshin86/oh-my-logo) - Display giant ASCII-art logos with colorful gradients in your terminal — like Claude Code or Gemini CLI.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.
 - [absolute-version/commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) - Fork of the excellent standard-version. Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org :trophy:
@@ -750,6 +751,7 @@
 
 ## css 
 
+- [syntaxfm/website](https://github.com/syntaxfm/website) - Syntax Podcast Website
 - [filipsobol/sonda](https://github.com/filipsobol/sonda) - Universal visualizer and analyzer for JavaScript and CSS. Compatible with most bundlers and frameworks
 - [Ekliptor/WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for NodeJS
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
@@ -1007,7 +1009,6 @@
 ## electron 
 
 - [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [Level/level](https://github.com/Level/level) - Universal abstract-level database for Node.js and browsers.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
@@ -1091,6 +1092,7 @@
 
 ## finance 
 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [apache/fineract](https://github.com/apache/fineract) - Apache Fineract
 - [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) - Transparent and Efficient Financial Analysis
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
@@ -1189,6 +1191,7 @@
 
 ## frontend 
 
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [ganatan/angular-app](https://github.com/ganatan/angular-app) - Angular 20 Fullstack App with SSR, PWA, SEO, and Node.js, Java backends
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
@@ -1332,6 +1335,7 @@
 
 ## good-first-issue 
 
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 
 ## google 
@@ -1381,6 +1385,9 @@
 
 ## hacktoberfest 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [syntaxfm/website](https://github.com/syntaxfm/website) - Syntax Podcast Website
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [patternfly/patternfly-react](https://github.com/patternfly/patternfly-react) - A set of React components for the PatternFly project.
@@ -1486,7 +1493,7 @@
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
-- [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript
+- [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (2 kb) internationalization for JavaScript
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
@@ -1524,6 +1531,7 @@
 
 ## html 
 
+- [syntaxfm/website](https://github.com/syntaxfm/website) - Syntax Podcast Website
 - [ije/md4w](https://github.com/ije/md4w) - A Markdown renderer written in Zig & C, compiled to WebAssymbly.
 - [render-rs/render.rs](https://github.com/render-rs/render.rs) - 🔏 A safe and simple template engine with the ergonomics of JSX
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
@@ -1582,6 +1590,7 @@
 
 ## image-processing 
 
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [addyosmani/filter](https://github.com/addyosmani/filter) - Filter - Web Image Editor
 - [qq15725/modern-rembg](https://github.com/qq15725/modern-rembg) - 🐘 Uses an AI model to remove image backgrounds. Only the ESM.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
@@ -1655,6 +1664,9 @@
 
 ## javascript 
 
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+- [syntaxfm/website](https://github.com/syntaxfm/website) - Syntax Podcast Website
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
@@ -1824,7 +1836,7 @@
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [fivdi/pigpio](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification and interrupt handling with Node.js on the Raspberry Pi
 - [ladjs/lad](https://github.com/ladjs/lad) - Node.js framework made by a former @expressjs TC and @koajs team member. Built for @forwardemail, @spamscanner, @breejs, @cabinjs, and @lassjs.
-- [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript
+- [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (2 kb) internationalization for JavaScript
 - [oncebot/pushbar.js](https://github.com/oncebot/pushbar.js) - Tiny javascript plugin for creating sliding drawers in web apps
 - [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
@@ -2075,6 +2087,7 @@
 
 ## llm 
 
+- [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
@@ -2094,7 +2107,7 @@
 
 ## localization 
 
-- [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript
+- [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (2 kb) internationalization for JavaScript
 
 ## login 
 
@@ -2526,6 +2539,7 @@
 
 ## open-source 
 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
@@ -2559,7 +2573,7 @@
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [SamurAIGPT/EmbedAI](https://github.com/SamurAIGPT/EmbedAI) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
-- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is the App Store for LLM tools. Your API ⇒ Paid MCP. Instantly.
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is RapidAPI for LLM Tools. Your API ⇒ Paid MCP. Instantly.
 
 ## opencv 
 
@@ -2571,6 +2585,8 @@
 
 ## others 
 
+- [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply th
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [unjs/openapi-renderer](https://github.com/unjs/openapi-renderer) - Simple OpenAPI spec to HTML renderer.
 - [freqtrade/ftui](https://github.com/freqtrade/ftui) - FTUI - a terminal-based Freqtrade UI client
 - [yusukebe/image-resize-containers](https://github.com/yusukebe/image-resize-containers) - 
@@ -3237,6 +3253,8 @@
 
 ## postgresql 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [ganatan/angular-app](https://github.com/ganatan/angular-app) - Angular 20 Fullstack App with SSR, PWA, SEO, and Node.js, Java backends
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -3245,7 +3263,7 @@
 - [free/sql_exporter](https://github.com/free/sql_exporter) - Database agnostic SQL exporter for Prometheus
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ NodeJS E-commerce Platform
+- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ Typescript E-commerce Platform
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -3264,6 +3282,7 @@
 
 ## productivity 
 
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -3367,6 +3386,8 @@
 
 ## react 
 
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 - [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native & Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment o
 - [bholmesdev/simple-rsc](https://github.com/bholmesdev/simple-rsc) - A simple React Server Components implementation that you can build yourself 🙌
@@ -3440,7 +3461,7 @@
 - [nathanbuchar/react-hook-thunk-reducer](https://github.com/nathanbuchar/react-hook-thunk-reducer) - 📡 A React useReducer() hook whose dispatcher supports thunks à la redux-thunk.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [DoneDeal0/superdiff](https://github.com/DoneDeal0/superdiff) - Superdiff provides a complete and readable diff for both arrays and objects. Plus, it supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependencies, 
-- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ NodeJS E-commerce Platform
+- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ Typescript E-commerce Platform
 - [podkrepi-bg/frontend](https://github.com/podkrepi-bg/frontend) - Charity platform https://podkrepi.bg Docs https://docs.podkrepi.bg
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -3588,7 +3609,7 @@
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [microsoft/redux-dynamic-modules](https://github.com/microsoft/redux-dynamic-modules) - Modularize Redux by dynamically loading reducers and middlewares.
 - [rangle/redux-beacon](https://github.com/rangle/redux-beacon) - Analytics integration for Redux and ngrx/store
-- [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript
+- [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (2 kb) internationalization for JavaScript
 - [Pau1fitz/react-interview](https://github.com/Pau1fitz/react-interview) - React Interview Questions 📙 📚 📖 🔎 ✒️
 - [tiaanduplessis/awesome-react-talks](https://github.com/tiaanduplessis/awesome-react-talks) - :sunglasses: A curated list of talks about React or topics related to React
 - [danbovey/react-infinite-scroller](https://github.com/danbovey/react-infinite-scroller) - ⏬ Infinite scroll component for React in ES6
@@ -3649,7 +3670,7 @@
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [rangle/redux-beacon](https://github.com/rangle/redux-beacon) - Analytics integration for Redux and ngrx/store
 - [ladjs/lad](https://github.com/ladjs/lad) - Node.js framework made by a former @expressjs TC and @koajs team member. Built for @forwardemail, @spamscanner, @breejs, @cabinjs, and @lassjs.
-- [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript
+- [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (2 kb) internationalization for JavaScript
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
@@ -3672,7 +3693,7 @@
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [urban-bot/urban-bot](https://github.com/urban-bot/urban-bot) - 🤖 The universal chatbot library based on React. Write once, launch Telegram, Discord, Facebook, ... every messenger with chatbots
 - [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com/colbyfayock/50-projects-for-react-and-the-static-web) - ⚛ 50 project ideas to learn by doing complete with project briefs, layout ideas, and resources!
-- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ NodeJS E-commerce Platform
+- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ Typescript E-commerce Platform
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [fabienjuif/use-bus](https://github.com/fabienjuif/use-bus) - React hook to subscribe and dispatch events accros React components
 - [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that harnesses the power of CSS animations to create silky smooth marquees.
@@ -3770,6 +3791,7 @@
 
 ## rust 
 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) - Generate impressive-looking terminal output to look busy when stakeholders walk by
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
@@ -3845,6 +3867,7 @@
 
 ## self-hosted 
 
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -3960,6 +3983,7 @@
 
 ## sql 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [sqlhabit/sql_schema_visualizer](https://github.com/sqlhabit/sql_schema_visualizer) - SQL schema visualisation built with ReactFlow.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -3972,12 +3996,14 @@
 
 ## sql-server 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [free/sql_exporter](https://github.com/free/sql_exporter) - Database agnostic SQL exporter for Prometheus
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [tediousjs/node-mssql](https://github.com/tediousjs/node-mssql) - Microsoft SQL Server client for Node.js
 
 ## sqlite 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [pheralb/slug](https://github.com/pheralb/slug) - 🌱 An open-source URL shortener built with T3 Stack.
@@ -4008,6 +4034,7 @@
 
 ## svelte 
 
+- [syntaxfm/website](https://github.com/syntaxfm/website) - Syntax Podcast Website
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 - [serwist/serwist](https://github.com/serwist/serwist) - A Swiss Army knife for service workers.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -4054,6 +4081,7 @@
 
 ## tailwindcss 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [trendy-design/llmchat](https://github.com/trendy-design/llmchat) - Unified interface for AI chat, Agentic workflows and more ...
 - [RobiNN1/phpCacheAdmin](https://github.com/RobiNN1/phpCacheAdmin) - Web GUI for managing Redis, Memcached, APCu, OPCache and Realpath with data management.
 - [forge-42/base-stack](https://github.com/forge-42/base-stack) - The best way to start your react-router v7 project
@@ -4170,6 +4198,7 @@
 
 ## typescript 
 
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
@@ -4496,6 +4525,7 @@
 
 ## webapp 
 
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -4526,6 +4556,7 @@
 
 ## website 
 
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - A progressive web framework based on React and Rsbuild.
