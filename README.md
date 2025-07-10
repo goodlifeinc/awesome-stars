@@ -237,7 +237,7 @@
 ## HTML 
 
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
-- [ganatan/angular-app](https://github.com/ganatan/angular-app) - Angular 20 Fullstack App with SSR, PWA, SEO, and Node.js, Java backends
+- [ganatan/angular-app](https://github.com/ganatan/angular-app) - Angular 20 Fullstack Starter with Node.js, Java, and AI (LLM, Voice, Podcast). Includes SSR, PWA, REST APIs, Docker.
 - [eladnava/mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
 - [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
 - [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
@@ -1248,6 +1248,7 @@
 
 ## TypeScript 
 
+- [nuxt/scripts](https://github.com/nuxt/scripts) - Third-Party Scripts Meets Nuxt Developer Experience.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [shinshin86/oh-my-logo](https://github.com/shinshin86/oh-my-logo) - Display giant ASCII-art logos with colorful gradients in your terminal — like Claude Code or Gemini CLI.
 - [unjs/openapi-renderer](https://github.com/unjs/openapi-renderer) - Simple OpenAPI spec to HTML renderer.
@@ -1379,7 +1380,7 @@
 - [hi-ogawa/vite-plugins](https://github.com/hi-ogawa/vite-plugins) - React Server Component support for Vite
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [ardatan/whatwg-node](https://github.com/ardatan/whatwg-node) - Helper packages to create platform agnostic applications and libraries without worrying about the lack of WHATWG support in Node.js
-- [cellajs/cella](https://github.com/cellajs/cella) - Template to build web apps with sync engine using hono, pg, drizzle, electric-sync, react, shadcn.
+- [cellajs/cella](https://github.com/cellajs/cella) - Template to build web apps with sync engine using pg, node, hono, drizzle, react, electric-sync, tanstack.
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [crummy/vite-ssr-i18n](https://github.com/crummy/vite-ssr-i18n) - A sample repo integrating react-i18next with vite-plugin-ssr
 - [unjs/ipx](https://github.com/unjs/ipx) - 🖼️ High performance, secure and easy-to-use image optimizer.
@@ -1405,7 +1406,7 @@
 - [sorrycc/weekly](https://github.com/sorrycc/weekly) - MDH Weekly 前端周刊，每周一上午 9 点发布。
 - [vikejs/bati](https://github.com/vikejs/bati) - 🔨 Next-gen scaffolder. Get started with fully-functional apps, and choose any tool you want.
 - [epicweb-dev/invariant](https://github.com/epicweb-dev/invariant) - Type safe utilities for throwing errors (and responses) in exceptional situations in a declarative way.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge managemen
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
