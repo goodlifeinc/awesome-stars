@@ -663,7 +663,7 @@
 - [Kaesebrot84/iris](https://github.com/Kaesebrot84/iris) - A cli tool that creates color palettes from images using the median cut algorithm.
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
+- [drager/wasm-pack](https://github.com/drager/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [jondot/hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [linux-china/dx](https://github.com/linux-china/dx) - A tool and task runner for writing better scripts with Deno
@@ -894,6 +894,7 @@
 
 ## design 
 
+- [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [0xType/0xProto](https://github.com/0xType/0xProto) - A programming font focused on source code legibility
 - [OllieWP/ollie](https://github.com/OllieWP/ollie) - A finely-crafted WordPress block theme by Mike McAlister
@@ -944,7 +945,6 @@
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [YOURLS/containers](https://github.com/YOURLS/containers) - 📦 Container Images for YOURLS
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [ganatan/angular-app](https://github.com/ganatan/angular-app) - Angular 20 Fullstack Starter with Node.js (JavaScript & TypeScript), Spring Boot, and AI (LLM, Voice, Podcast). Includes SSR, PWA, REST APIs, Docker, and CI/CD pipelines.
@@ -2549,7 +2549,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [parsify-dev/cashify](https://github.com/parsify-dev/cashify) - 💸  Lightweight currency conversion library, successor of money.js
-- [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
+- [drager/wasm-pack](https://github.com/drager/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [VoodooTeam/async-await-retry](https://github.com/VoodooTeam/async-await-retry) - 
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
@@ -2608,6 +2608,7 @@
 
 ## others 
 
+- [ln-dev7/circle](https://github.com/ln-dev7/circle) - UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams.
 - [bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [vitejs/vite-plugin-react](https://github.com/vitejs/vite-plugin-react) - The all-in-one Vite plugin for React projects.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -2830,7 +2831,7 @@
 - [osomstudio/juniper](https://github.com/osomstudio/juniper) - Juniper is symbiosis of Bedrock boilerplate and Timber.
 - [rompetomp/inertia-bundle](https://github.com/rompetomp/inertia-bundle) - Inertia.js server-side adapter for Symfony
 - [boxybird/inertia-wordpress](https://github.com/boxybird/inertia-wordpress) - The WordPress adapter for Inertia.js.
-- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
+- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Google Lighthouse for your entire site.
 - [vercel-labs/next-fetch](https://github.com/vercel-labs/next-fetch) - Intuitive data fetching for Next.js
 - [myparcelnl/woocommerce](https://github.com/myparcelnl/woocommerce) - MyParcel plug-in for WooCommerce
 - [metodiew/softuni-jobs-exam-preparation](https://github.com/metodiew/softuni-jobs-exam-preparation) - 
@@ -2892,7 +2893,7 @@
 - [rentorm/3commas-api-node](https://github.com/rentorm/3commas-api-node) - NodeJS wrapper for Official 3commas API
 - [BytemarkHosting/docker-smtp](https://github.com/BytemarkHosting/docker-smtp) - Docker image for sending outgoing mail
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
-- [replicate/inpainter](https://github.com/replicate/inpainter) - A web GUI built with Next.js for inpainting with Stable Diffusion using the Replicate API.
+- [replicate/inpainter](https://github.com/replicate/inpainter) - A web GUI built with Next.js for inpainting with AI models using Replicate's API
 - [kentcdodds/use-deep-compare-effect](https://github.com/kentcdodds/use-deep-compare-effect) - 🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality
 - [denoland/showcase_chat](https://github.com/denoland/showcase_chat) - 
 - [denoland/merch](https://github.com/denoland/merch) - The Deno shop!
@@ -3849,7 +3850,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [Pure-Peace/simple-rijndael](https://github.com/Pure-Peace/simple-rijndael) - rijndael-cbc encryption and decryption algorithm implemented in pure Rust (supports zero-padding or pkcs7)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-- [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
+- [drager/wasm-pack](https://github.com/drager/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
@@ -4112,6 +4113,7 @@
 
 ## tailwindcss 
 
+- [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [trendy-design/llmchat](https://github.com/trendy-design/llmchat) - Unified interface for AI chat, Agentic workflows and more ...
 - [RobiNN1/phpCacheAdmin](https://github.com/RobiNN1/phpCacheAdmin) - Web GUI for managing Redis, Memcached, APCu, OPCache and Realpath with data management.
