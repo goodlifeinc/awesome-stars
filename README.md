@@ -1329,7 +1329,7 @@
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
 - [addyosmani/filter](https://github.com/addyosmani/filter) - Filter - Web Image Editor
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
-- [toolbeam/openauth](https://github.com/toolbeam/openauth) - ▦ Universal, standards-based auth provider.
+- [sst/openauth](https://github.com/sst/openauth) - ▦ Universal, standards-based auth provider.
 - [JoshuaKGoldberg/emoji-blast](https://github.com/JoshuaKGoldberg/emoji-blast) - Blasts emoji like fireworks all up in your HTML page. 🎆
 - [marbemac/ssrx](https://github.com/marbemac/ssrx) - A thin layer on top of Vite to build modern SSR apps with a delightful DX.
 - [szimek/signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
@@ -1352,7 +1352,7 @@
 - [openai/openai-node](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API
 - [magne4000/universal-middleware](https://github.com/magne4000/universal-middleware) - Write middleware once, target Hono, Cloudflare, Express, and more
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [h3js/srvx](https://github.com/h3js/srvx) - 💥 Universal Server API based on web platform standards. Works seamlessly with Deno, Bun and Node.js.
+- [h3js/srvx](https://github.com/h3js/srvx) - λ Universal Server based on web standards.
 - [RobinBlomberg/kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generate Kysely type definitions from your database.
 - [poppinss/macroable](https://github.com/poppinss/macroable) - Extend classes from outside in using Macros and getters
 - [poppinss/middleware](https://github.com/poppinss/middleware) - Implementation of the chain of responsibility design pattern.
