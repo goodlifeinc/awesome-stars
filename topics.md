@@ -408,6 +408,7 @@
 
 ## artificial-intelligence 
 
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -939,6 +940,7 @@
 
 ## devops 
 
+- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -964,6 +966,7 @@
 
 ## docker 
 
+- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [pj-labs/angular-ssr-docker](https://github.com/pj-labs/angular-ssr-docker) - Angular SSR Demo
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -1180,6 +1183,7 @@
 
 ## framework 
 
+- [zencart/zencart](https://github.com/zencart/zencart) - Zen Cart® is a full-function e-commerce application for your website.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
 - [lazarv/react-server](https://github.com/lazarv/react-server) - The easiest way to build React apps with server-side rendering
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
@@ -1312,7 +1316,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [gini/dexter](https://github.com/gini/dexter) - [ARCHIVED] dexter is a Kubernetes OIDC helper with as much automation as possible
@@ -1348,7 +1352,7 @@
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [gini/dexter](https://github.com/gini/dexter) - [ARCHIVED] dexter is a Kubernetes OIDC helper with as much automation as possible
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -1424,6 +1428,7 @@
 
 ## hacktoberfest 
 
+- [zencart/zencart](https://github.com/zencart/zencart) - Zen Cart® is a full-function e-commerce application for your website.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -1438,7 +1443,7 @@
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [borjapazr/express-typescript-skeleton](https://github.com/borjapazr/express-typescript-skeleton) - 🔰🦸 Template to start developing a REST API with Node.js (Express), TypeScript, Ts.ED, ESLint, Prettier, Husky, Prisma, etc.
-- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Toolkit
 - [nashtech-garage/yas](https://github.com/nashtech-garage/yas) - YAS: Yet Another Shop, a sample microservices project in Java
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [zxing-js/library](https://github.com/zxing-js/library) - Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.
@@ -1732,7 +1737,7 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
-- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Toolkit
 - [rxing-core/rxing-wasm](https://github.com/rxing-core/rxing-wasm) - WASM bindings for common rxing functions
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
@@ -2069,7 +2074,7 @@
 ## laravel 
 
 - [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
-- [liberu-ecommerce/ecommerce-laravel](https://github.com/liberu-ecommerce/ecommerce-laravel) - Ecommerce system written in Laravel 11 / PHP 8.3 using Filament 3.3 and Livewire 3.5. Online shop system alternative to Magento or WooCommerce or Shopify or CubeCart etc
+- [liberu-ecommerce/ecommerce-laravel](https://github.com/liberu-ecommerce/ecommerce-laravel) - Ecommerce system written in Laravel 12 / PHP 8.4 using Filament 4.0 and Livewire. Online shop system alternative to Magento or WooCommerce or Shopify or CubeCart etc
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [kirschbaum-development/eloquent-power-joins](https://github.com/kirschbaum-development/eloquent-power-joins) - The Laravel magic you know, now applied to joins.
 - [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
@@ -2142,7 +2147,7 @@
 - [ganatan/angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) - Angular 20 Fullstack Starter with Node.js (JavaScript & TypeScript), Spring Boot, and AI (LLM, Voice, Podcast). Includes SSR, PWA, REST APIs, Docker, and CI/CD pipelines.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
@@ -2174,6 +2179,7 @@
 
 ## machine-learning 
 
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
@@ -2346,7 +2352,7 @@
 - [filipsobol/sonda](https://github.com/filipsobol/sonda) - Universal visualizer and analyzer for JavaScript and CSS. Compatible with most bundlers and frameworks
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Toolkit
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌
@@ -2636,6 +2642,7 @@
 
 ## others 
 
+- [Stamenov/sredna_skorost_bg](https://github.com/Stamenov/sredna_skorost_bg) - 
 - [github-samples/agents-in-sdlc](https://github.com/github-samples/agents-in-sdlc) - Lab Walkthrough and Demo for the "Collaborating with agents in your software development workflow" workshop
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React
 - [ln-dev7/circle](https://github.com/ln-dev7/circle) - UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams.
@@ -3245,6 +3252,7 @@
 
 ## php 
 
+- [zencart/zencart](https://github.com/zencart/zencart) - Zen Cart® is a full-function e-commerce application for your website.
 - [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
 - [passwalls/mark](https://github.com/passwalls/mark) - Mark is a high performance API micro framework based on  workerman helps you quickly write APIs with php
 - [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols.
@@ -3253,7 +3261,7 @@
 - [PatrickLouys/no-framework-tutorial](https://github.com/PatrickLouys/no-framework-tutorial) - A small tutorial to show how to create a PHP application without a framework.
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
 - [bramus/router](https://github.com/bramus/router) - A lightweight and simple object oriented PHP Router
-- [liberu-ecommerce/ecommerce-laravel](https://github.com/liberu-ecommerce/ecommerce-laravel) - Ecommerce system written in Laravel 11 / PHP 8.3 using Filament 3.3 and Livewire 3.5. Online shop system alternative to Magento or WooCommerce or Shopify or CubeCart etc
+- [liberu-ecommerce/ecommerce-laravel](https://github.com/liberu-ecommerce/ecommerce-laravel) - Ecommerce system written in Laravel 12 / PHP 8.4 using Filament 4.0 and Livewire. Online shop system alternative to Magento or WooCommerce or Shopify or CubeCart etc
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [cweiske/jsonmapper](https://github.com/cweiske/jsonmapper) - Map nested JSON structures onto PHP classes
@@ -3374,6 +3382,7 @@
 
 ## python 
 
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -3469,7 +3478,7 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
-- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Toolkit
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [forge-42/vite-plugin-icons-spritesheet](https://github.com/forge-42/vite-plugin-icons-spritesheet) - Vite plugin that listens to an icon folder and outputs a spritesheet with optional types to specified location
@@ -3854,6 +3863,7 @@
 
 ## rust 
 
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) - Generate impressive-looking terminal output to look busy when stakeholders walk by
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -4237,6 +4247,7 @@
 
 ## trading 
 
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [freqtrade/frequi](https://github.com/freqtrade/frequi) - Freqtrade UI - Frontend for Freqtrade
 - [c9s/bbgo](https://github.com/c9s/bbgo) - The modern cryptocurrency trading bot framework written in Go.
 - [fabston/TradingView-Webhook-Bot](https://github.com/fabston/TradingView-Webhook-Bot) - 📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email.
@@ -4651,7 +4662,7 @@
 
 ## wordpress 
 
-- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Toolkit
 - [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and block editor support
 - [groucho75/alo-easymail](https://github.com/groucho75/alo-easymail) - ALO EasyMail Newsletter, a newsletter plugin for WordPress.
 - [flyntwp/flynt](https://github.com/flyntwp/flynt) - Component based WordPress starter theme, powered by ACF Pro and Timber, optimized for performance and a11y.
