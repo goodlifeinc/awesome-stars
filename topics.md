@@ -2777,7 +2777,7 @@
 - [seasonedcc/composable-functions](https://github.com/seasonedcc/composable-functions) - Types and functions to make composition easy and safe
 - [ajcwebdev/ryan-gpt](https://github.com/ajcwebdev/ryan-gpt) - Every Ryan Carniato stream ever summarized and turned into embeddings for chatting with
 - [boyko/borica-node-utils](https://github.com/boyko/borica-node-utils) - 
-- [georgai1/borica-nodejs](https://github.com/georgai1/borica-nodejs) - 
+- [georgiai1/borica-nodejs](https://github.com/georgiai1/borica-nodejs) - 
 - [rgerganov/ggtag](https://github.com/rgerganov/ggtag) - programmable e-paper tag with RFID
 - [makuko/adminjs-drizzle](https://github.com/makuko/adminjs-drizzle) - Drizzle ORM adapter for AdminJS
 - [ivo-/wait-group-ts](https://github.com/ivo-/wait-group-ts) - Golang-like wait group for JavaScript/TypeScript with max concurrency limit.
@@ -2956,7 +2956,7 @@
 - [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
 - [loopback4/ra-data-lb4](https://github.com/loopback4/ra-data-lb4) - React Admin Loopback4 CRUD DataProvider
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, su
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
 - [DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) - [WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.
 - [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository
