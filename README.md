@@ -242,7 +242,6 @@
 ## HTML 
 
 - [Azure-Samples/SQL-AI-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
-- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [ganatan/angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) - Angular 20 Fullstack Starter with Node.js (JavaScript & TypeScript), Spring Boot, and AI (LLM, Voice, Podcast). Includes SSR, PWA, REST APIs, Docker, and CI/CD pipelines.
 - [eladnava/mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
@@ -1029,6 +1028,7 @@
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 - [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
 - [cjams/whispertux](https://github.com/cjams/whispertux) - Simple GUI around whisper.cpp for voice-to-text on Linux
@@ -1282,6 +1282,8 @@
 
 ## TypeScript 
 
+- [cinar/indicatorts](https://github.com/cinar/indicatorts) - Indicator TS delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀
+- [klinecharts/KLineChart](https://github.com/klinecharts/KLineChart) - 📈Lightweight k-line chart that can be highly customized. Zero dependencies. Support mobile.（可高度自定义的轻量级k线图，无第三方依赖，支持移动端）
 - [ayuhito/modern-tar](https://github.com/ayuhito/modern-tar) - 🗄 Zero dependency streaming tar parser and writer for every JavaScript runtime.
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 - [niklaserik/effect-mcp](https://github.com/niklaserik/effect-mcp) - A mcp server for fetching the Effect-ts documentation
@@ -1370,7 +1372,7 @@
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [JeanMeche/ssr-v19](https://github.com/JeanMeche/ssr-v19) - Angular SSR Demo using the new AppEngine
 - [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests
 - [nakasyou/badapple-hono](https://github.com/nakasyou/badapple-hono) - 
 - [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI
@@ -1526,7 +1528,7 @@
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [unjs/unimport](https://github.com/unjs/unimport) - Unified utils for auto importing APIs in modules.
 - [h3js/rou3](https://github.com/h3js/rou3) - 🌳 Lightweight and fast rou(ter) for JavaScript
-- [bagisto/nextjs-commerce](https://github.com/bagisto/nextjs-commerce) - Develop and deploy headless commerce storefronts that convert with Vercel + Bagisto. Build your next store with Next.js and Bagisto
+- [bagisto/nextjs-commerce](https://github.com/bagisto/nextjs-commerce) - Open source headless commerce that’s fast, flexible, and built to scale — launch stunning storefronts that convert and grow your business without limits.
 - [E-Kuerschner/useAudioPlayer](https://github.com/E-Kuerschner/useAudioPlayer) - React hooks for controlling audio on the web
 - [andrewsolonets/Azon-Shop](https://github.com/andrewsolonets/Azon-Shop) - T3-stack E-commerce website with Drizzle ORM, rating system,  persistent cart, discounts, algolia search, optimistic updates (React Query), in stock indicator, infinite scroll and order tracking. E2E 
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
