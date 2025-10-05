@@ -26,6 +26,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -145,6 +146,7 @@
 
 ## Go 
 
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [berbyte/sinkzone](https://github.com/berbyte/sinkzone) - Block everything. Allow only what matters. A DNS tool for productivity, focus, and child safety. Allowlist-only internet for distraction-free work.
@@ -250,7 +252,6 @@
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 - [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
 - [OWASP/NodeGoat](https://github.com/OWASP/NodeGoat) - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
-- [sensahin/YouWhisper](https://github.com/sensahin/YouWhisper) - Convert YouTube videos to text using openai/whisper
 - [zernst3/my-simple-crm](https://github.com/zernst3/my-simple-crm) - 
 - [microsoft/BotFramework-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly-customizable web-based client for Azure Bot Services.
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
@@ -833,6 +834,10 @@
 - [cdimascio/dotenv-kotlin](https://github.com/cdimascio/dotenv-kotlin) - 🗝️ Dotenv is a module that loads environment variables from a .env file
 - [ethauvin/semver-gradle](https://github.com/ethauvin/semver-gradle) - Semantic Version Plugin for Gradle
 
+## Lua 
+
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
+
 ## MDX 
 
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
@@ -858,7 +863,6 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
 - [tesseract-ocr/tessdata_fast](https://github.com/tesseract-ocr/tessdata_fast) - Fast integer versions of trained LSTM models
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [PatrickLouys/no-framework-tutorial](https://github.com/PatrickLouys/no-framework-tutorial) - A small tutorial to show how to create a PHP application without a framework.
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
@@ -1022,6 +1026,7 @@
 
 ## Python 
 
+- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
 - [dolezsa/thermal_comfort](https://github.com/dolezsa/thermal_comfort) - Thermal Comfort sensor for HA (absolute humidity, heat index, dew point, thermal perception)
 - [sunriseapps/imagesorcery-mcp](https://github.com/sunriseapps/imagesorcery-mcp) - An MCP server providing tools for image processing operations
@@ -1047,7 +1052,7 @@
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
 - [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance SDK and runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
 - [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) - Python 3 API wrapper for Garmin Connect to get statistics and set activities
 - [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) - Transparent and Efficient Financial Analysis
 - [thedataflows/pulumi-contabo](https://github.com/thedataflows/pulumi-contabo) - Pulumi provider for Contabo
@@ -1143,7 +1148,7 @@
 ## Rust 
 
 - [coder/httpjail](https://github.com/coder/httpjail) - HTTP(s) request filter for processes
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Render your React components to images. Available for Rust, Node.js, and WebAssembly.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Render your React component to images, satori but with more features.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -1282,6 +1287,7 @@
 
 ## TypeScript 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [cinar/indicatorts](https://github.com/cinar/indicatorts) - Indicator TS delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀
 - [klinecharts/KLineChart](https://github.com/klinecharts/KLineChart) - 📈Lightweight k-line chart that can be highly customized. Zero dependencies. Support mobile.（可高度自定义的轻量级k线图，无第三方依赖，支持移动端）
 - [ayuhito/modern-tar](https://github.com/ayuhito/modern-tar) - 🗄 Zero dependency streaming tar parser and writer for every JavaScript runtime.
@@ -1293,7 +1299,7 @@
 - [schickling/dilagent](https://github.com/schickling/dilagent) - "Deep research for bugs" – Agentic root cause analysis through hypothesis-driven debugging
 - [m-damien/VisualStoryWriting](https://github.com/m-damien/VisualStoryWriting) - 🧙‍♂️ Writing by manipulating visual representations of stories
 - [vitabaks/autobase](https://github.com/vitabaks/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
-- [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - Kiro compatible Spec-Driven Development for Claude Code, Cursor, Gemini CLI and Qwen Code. High quality commands that enforce structured requirements→design→tasks workflow and steering, transforming h
+- [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - High quality Spec-Driven Development for Claude Code, Cursor, Gemini CLI and Qwen Code. High quality commands that enforce structured requirements→design→tasks workflow and steering, transforming how 
 - [laiso/ts-bench](https://github.com/laiso/ts-bench) - Measure and compare the performance of AI coding agents on TypeScript tasks.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [useautumn/autumn](https://github.com/useautumn/autumn) - Autumn is an open-source pricing & billing platform
