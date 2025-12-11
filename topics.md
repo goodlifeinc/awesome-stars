@@ -100,6 +100,7 @@
 - [game-development](#game-development)
 - [gamedev](#gamedev)
 - [games](#games)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -309,7 +310,7 @@
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [trendy-design/llmchat](https://github.com/trendy-design/llmchat) - Unified interface for AI chat, Agentic workflows and more ...
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
@@ -346,7 +347,7 @@
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [laiso/ts-bench](https://github.com/laiso/ts-bench) - Measure and compare the performance of AI coding agents on TypeScript tasks.
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 
 ## ajax 
 
@@ -1040,7 +1041,7 @@
 ## developer-tools 
 
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -1418,6 +1419,16 @@
 ## games 
 
 - [MUnique/OpenMU](https://github.com/MUnique/OpenMU) - This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online".
+
+## generative-ai 
+
+- [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
+- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
+- [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D.
 
 ## git 
 
@@ -2649,7 +2660,7 @@
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [Sec-ant/zxing-wasm](https://github.com/Sec-ant/zxing-wasm) - ZXing-C++ WebAssembly as an ES/CJS module with types. Read or write barcodes in various JS runtimes: Web, Node.js, Bun, and Deno.
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
-- [vikejs/vike](https://github.com/vikejs/vike) - 𝗥𝗲𝗽𝗹𝗮𝗰𝗲𝘀 𝗡𝗲𝘅𝘁.𝗷𝘀/𝗡𝘂𝘅𝘁 🔨 𝘛𝘩𝘦 𝘤𝘰𝘮𝘱𝘰𝘴𝘢𝘣𝘭𝘦 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬 𝘵𝘰 𝘣𝘶𝘪𝘭𝘥 𝘢𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘸𝘪𝘵𝘩 𝘴𝘵𝘢𝘣𝘪𝘭𝘪𝘵𝘺 𝘢𝘯𝘥 𝘧𝘭𝘦𝘹𝘪𝘣𝘪𝘭𝘪𝘵𝘺.
+- [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 The composable framework to build advanced applications with stability and flexibility.
 - [gofunky/trumpet](https://github.com/gofunky/trumpet) - parse and transform streaming html using css selectors
 - [nanojsx/nano](https://github.com/nanojsx/nano) - 🎯 SSR first, lightweight 1kB JSX library.
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
@@ -3109,7 +3120,6 @@
 - [joao-conde/advents-of-code](https://github.com/joao-conde/advents-of-code) - 🎄🎁 Solutions for the yearly advent of code challenges
 - [withastro/cli-kit](https://github.com/withastro/cli-kit) - 
 - [wesbos/ai-webcam](https://github.com/wesbos/ai-webcam) - 
-- [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D.
 - [softwaregroup-bg/ut-portal](https://github.com/softwaregroup-bg/ut-portal) - 
 - [softwaregroup-bg/ut-model](https://github.com/softwaregroup-bg/ut-model) - 
 - [huggingface/llm-vscode](https://github.com/huggingface/llm-vscode) - LLM powered development for VSCode
@@ -3700,7 +3710,7 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by QPDF
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -3827,7 +3837,7 @@
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
-- [vikejs/vike](https://github.com/vikejs/vike) - 𝗥𝗲𝗽𝗹𝗮𝗰𝗲𝘀 𝗡𝗲𝘅𝘁.𝗷𝘀/𝗡𝘂𝘅𝘁 🔨 𝘛𝘩𝘦 𝘤𝘰𝘮𝘱𝘰𝘴𝘢𝘣𝘭𝘦 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬 𝘵𝘰 𝘣𝘶𝘪𝘭𝘥 𝘢𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘸𝘪𝘵𝘩 𝘴𝘵𝘢𝘣𝘪𝘭𝘪𝘵𝘺 𝘢𝘯𝘥 𝘧𝘭𝘦𝘹𝘪𝘣𝘪𝘭𝘪𝘵𝘺.
+- [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 The composable framework to build advanced applications with stability and flexibility.
 - [edmundhung/conform](https://github.com/edmundhung/conform) - Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards.
 - [re-rxjs/react-rxjs](https://github.com/re-rxjs/react-rxjs) - React bindings for RxJS
 - [swan-io/chicane](https://github.com/swan-io/chicane) - A simple and safe router for React and TypeScript.
@@ -4897,7 +4907,7 @@
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 - [forge-42/vite-plugin-icons-spritesheet](https://github.com/forge-42/vite-plugin-icons-spritesheet) - Vite plugin that listens to an icon folder and outputs a spritesheet with optional types to specified location
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
-- [vikejs/vike](https://github.com/vikejs/vike) - 𝗥𝗲𝗽𝗹𝗮𝗰𝗲𝘀 𝗡𝗲𝘅𝘁.𝗷𝘀/𝗡𝘂𝘅𝘁 🔨 𝘛𝘩𝘦 𝘤𝘰𝘮𝘱𝘰𝘴𝘢𝘣𝘭𝘦 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬 𝘵𝘰 𝘣𝘶𝘪𝘭𝘥 𝘢𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘸𝘪𝘵𝘩 𝘴𝘵𝘢𝘣𝘪𝘭𝘪𝘵𝘺 𝘢𝘯𝘥 𝘧𝘭𝘦𝘹𝘪𝘣𝘪𝘭𝘪𝘵𝘺.
+- [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 The composable framework to build advanced applications with stability and flexibility.
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
 - [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin for Vite integration
 - [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
