@@ -324,6 +324,7 @@
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [nextify-limited/libra](https://github.com/nextify-limited/libra) - The open-source V0/Lovable alternative
+- [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
 - [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
@@ -2740,6 +2741,7 @@
 ## no-code 
 
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
+- [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -3000,6 +3002,7 @@
 
 ## others 
 
+- [pierceboggan/primer](https://github.com/pierceboggan/primer) - Get your repo ready for AI.
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [microsoft/docfind](https://github.com/microsoft/docfind) - A high-performance document search engine built in Rust with WebAssembly support.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
@@ -3060,7 +3063,6 @@
 - [berbyte/sinkzone](https://github.com/berbyte/sinkzone) - Block everything. Allow only what matters. A DNS tool for productivity, focus, and child safety. Allowlist-only internet for distraction-free work.
 - [Stamenov/sredna_skorost_bg](https://github.com/Stamenov/sredna_skorost_bg) - 
 - [github-samples/agents-in-sdlc](https://github.com/github-samples/agents-in-sdlc) - Lab Walkthrough and Demo for the "Collaborating with agents in your software development workflow" workshop
-- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React with AI superpowers
 - [ln-dev7/circle](https://github.com/ln-dev7/circle) - UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [vitejs/vite-plugin-react](https://github.com/vitejs/vite-plugin-react) - The all-in-one Vite plugin for React projects.
@@ -3539,7 +3541,7 @@
 - [oncebot/popbox.js](https://github.com/oncebot/popbox.js) - A tiny and simple stackable modal plugin for web apps
 - [StephenGrider/docker-react](https://github.com/StephenGrider/docker-react) - 
 - [gothinkster/hapijs-realworld-example-app](https://github.com/gothinkster/hapijs-realworld-example-app) - Real World Hapi.JS + Mongoose backend implementations
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
 - [acdlite/recompose](https://github.com/acdlite/recompose) - A React utility belt for function components and higher-order components.
 - [tj/react-click-outside](https://github.com/tj/react-click-outside) - ClickOutside component for React.
@@ -3920,6 +3922,7 @@
 - [kane50613/takumi](https://github.com/kane50613/takumi) - JSX → Image. Faster next/og & satori alternative plus variable fonts, RTL, inline layout, WOFF2, WebP output support.
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
+- [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
 - [Azure/react-azure-maps](https://github.com/Azure/react-azure-maps) - React Wrapper for azure-maps-control
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
