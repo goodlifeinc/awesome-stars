@@ -3291,7 +3291,7 @@
 - [osomstudio/juniper](https://github.com/osomstudio/juniper) - Juniper is symbiosis of Bedrock boilerplate and Timber.
 - [rompetomp/inertia-bundle](https://github.com/rompetomp/inertia-bundle) - Inertia.js server-side adapter for Symfony
 - [boxybird/inertia-wordpress](https://github.com/boxybird/inertia-wordpress) - The WordPress adapter for Inertia.js.
-- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Google Lighthouse for your entire site.
+- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Run Google Lighthouse on your entire site.
 - [vercel-labs/next-fetch](https://github.com/vercel-labs/next-fetch) - Intuitive data fetching for Next.js
 - [myparcelnl/woocommerce](https://github.com/myparcelnl/woocommerce) - MyParcel plug-in for WooCommerce
 - [metodiew/softuni-jobs-exam-preparation](https://github.com/metodiew/softuni-jobs-exam-preparation) - 
