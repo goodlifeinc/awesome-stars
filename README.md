@@ -397,7 +397,6 @@
 - [FujiwaraChoki/NotesTaker](https://github.com/FujiwaraChoki/NotesTaker) - A webapp to take notes during class.
 - [mmccall10/el-transition](https://github.com/mmccall10/el-transition) - Apply Enter/Leave transitions
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
-- [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
 - [Superalgos/Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, 
 - [msaktype/picostyle](https://github.com/msaktype/picostyle) - Ultra small CSS in JS library in 0.4 KB
 - [JuanIrache/gopro-telemetry](https://github.com/JuanIrache/gopro-telemetry) - Reads telemetry from the GPMF track in GoPro cameras (Hero5 and later) and converts it to multiple formats
@@ -868,6 +867,7 @@
 
 ## Others 
 
+- [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
 - [gemini-cli-extensions/angular](https://github.com/gemini-cli-extensions/angular) - Angular Extension for Gemini CLI
 - [gemini-cli-extensions/code-review](https://github.com/gemini-cli-extensions/code-review) - Google's Code Review extension for the Gemini CLI that reviews your code changes
 - [ggelashvili/learnphptherightway-project](https://github.com/ggelashvili/learnphptherightway-project) - 
@@ -1566,6 +1566,7 @@
 - [rphlmr/remix-hono-vite](https://github.com/rphlmr/remix-hono-vite) - Remix + Vite + Hono
 - [swan-io/chicane](https://github.com/swan-io/chicane) - A simple and safe router for React and TypeScript.
 - [Ekliptor/WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for NodeJS
+- [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async) - Thread-safe Helmet for React 16+ and friends
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
