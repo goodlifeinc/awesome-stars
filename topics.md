@@ -378,6 +378,7 @@
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build, run, and manage multi-agent systems at scale.
+- [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
 
 ## ajax 
 
@@ -714,7 +715,6 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
-- [SamurAIGPT/EmbedAI](https://github.com/SamurAIGPT/EmbedAI) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [urban-bot/urban-bot](https://github.com/urban-bot/urban-bot) - 🤖 The universal chatbot library based on React. Write once, launch Telegram, Discord, Facebook, ... every messenger with chatbots
 - [microsoft/BotFramework-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly-customizable web-based client for Azure Bot Services.
 - [botman/botman](https://github.com/botman/botman) - A framework agnostic PHP library to build chat bots
@@ -740,7 +740,6 @@
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-- [SamurAIGPT/EmbedAI](https://github.com/SamurAIGPT/EmbedAI) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 
 ## chatgpt-api 
@@ -862,7 +861,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 
 ## computer-science 
@@ -1475,6 +1474,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D.
+- [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
 
 ## git 
 
@@ -1634,7 +1634,7 @@
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [atulmy/crate](https://github.com/atulmy/crate) - 👕 👖 📦  A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Allows users to get monthly subscription of trendy clothes and accessories.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [alxshelepenok/lumen](https://github.com/alxshelepenok/lumen) - A constantly evolving and thoughtful architecture for creating static blogs.
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
@@ -2553,6 +2553,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
+- [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
 
 ## microservices 
 
@@ -3015,7 +3016,6 @@
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
-- [SamurAIGPT/EmbedAI](https://github.com/SamurAIGPT/EmbedAI) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 
 ## opencv 
@@ -3996,7 +3996,7 @@
 - [lazarv/react-server](https://github.com/lazarv/react-server) - The easiest way to build React apps with server-side rendering
 - [epicweb-dev/react-server-components](https://github.com/epicweb-dev/react-server-components) - Understand React Server Components and Server Actions by building a framework with them.
 - [americanexpress/react-albus](https://github.com/americanexpress/react-albus) - ✨ React component library for building declarative multi-step flows.
-- [cellajs/cella](https://github.com/cellajs/cella) - Template to build web apps with sync engine and offline support using pg, node, hono, drizzle, react, electric-sync, tanstack.
+- [cellajs/cella](https://github.com/cellajs/cella) - Template to build web apps with sync engine and offline support with just postgres, openapi & react-query as foundational layers.
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
@@ -4167,7 +4167,7 @@
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [mobxjs/mobx-react-lite](https://github.com/mobxjs/mobx-react-lite) - Lightweight React bindings for MobX based on React 16.8 and Hooks
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [EmaSuriano/gatsby-starter-mate](https://github.com/EmaSuriano/gatsby-starter-mate) - An accessible and fast portfolio starter for Gatsby integrated with Contentful CMS
