@@ -382,7 +382,7 @@
 - [georgesmith46/bcbp](https://github.com/georgesmith46/bcbp) - Encoding/decoding library for the IATA Bar Coded Boarding Pass
 - [kartikk221/hyper-express](https://github.com/kartikk221/hyper-express) - High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood.
 - [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)
-- [lazarv/react-server](https://github.com/lazarv/react-server) - The easiest way to build React apps with server-side rendering
+- [lazarv/react-server](https://github.com/lazarv/react-server) - Run React anywhere
 - [metabase/sso-examples](https://github.com/metabase/sso-examples) - Single Sign-On (SSO) examples for Metabase integration
 - [softwaregroup-bg/ut-rule](https://github.com/softwaregroup-bg/ut-rule) - 
 - [softwaregroup-bg/ut-port-httpserver](https://github.com/softwaregroup-bg/ut-port-httpserver) - 
@@ -1152,7 +1152,7 @@
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [Breakthrough/DVR-Scan](https://github.com/Breakthrough/DVR-Scan) - :vhs: Tool for extracting scenes with motion from videos (e.g. security camera or DVR footage). Written in Python, uses OpenCV.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot (PyCryptoBot)
