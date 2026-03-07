@@ -309,7 +309,7 @@
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
 - [yutakobayashidev/ava](https://github.com/yutakobayashidev/ava) - Automatically share development progress to Slack through AI. MCP-powered task reporting with privacy-first design.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
@@ -370,7 +370,7 @@
 ## ai-agents 
 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning framework for Claude Code, Gemini, Cursor, and Codex — hypothesis-driven decision making with auditable evidence trails
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
@@ -724,7 +724,7 @@
 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [autoshow/autoshow](https://github.com/autoshow/autoshow) - End-to-end workflow to automatically generate show notes from audio/video transcripts
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -1112,7 +1112,7 @@
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - AI-ready API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human opera
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
@@ -1178,7 +1178,7 @@
 - [OWASP/NodeGoat](https://github.com/OWASP/NodeGoat) - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - AI-ready API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human opera
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [devilbox/docker-php-fpm-5.3](https://github.com/devilbox/docker-php-fpm-5.3) - PHP-FPM 5.3 Docker Image (base image) [multi-arch]
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
@@ -1536,7 +1536,6 @@
 - [gini/dexter](https://github.com/gini/dexter) - [ARCHIVED] dexter is a Kubernetes OIDC helper with as much automation as possible
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - AI-ready API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -1575,7 +1574,7 @@
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [gini/dexter](https://github.com/gini/dexter) - [ARCHIVED] dexter is a Kubernetes OIDC helper with as much automation as possible
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - AI-ready API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human opera
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
@@ -1851,7 +1850,7 @@
 ## html5 
 
 - [Ekliptor/WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for NodeJS
-- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads
+- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP ads
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 
@@ -2047,7 +2046,7 @@
 - [pillarjs/router](https://github.com/pillarjs/router) - Simple middleware-style router
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
-- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads
+- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP ads
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
@@ -2316,7 +2315,7 @@
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [gini/dexter](https://github.com/gini/dexter) - [ARCHIVED] dexter is a Kubernetes OIDC helper with as much automation as possible
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - AI-ready API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human opera
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
@@ -2339,7 +2338,7 @@
 
 - [RumenDamyanov/php-seo](https://github.com/RumenDamyanov/php-seo) - AI-powered, framework-agnostic PHP package for automated SEO optimization. It intelligently generates meta tags, titles, descriptions, and alt texts using AI.
 - [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
-- [liberu-ecommerce/ecommerce-laravel](https://github.com/liberu-ecommerce/ecommerce-laravel) - Ecommerce system written in Laravel 12 / PHP 8.4 using Filament 4.0 and Livewire. Online shop system alternative to Magento or WooCommerce or Shopify or CubeCart etc
+- [liberu-ecommerce/ecommerce-laravel](https://github.com/liberu-ecommerce/ecommerce-laravel) - Ecommerce system written in Laravel 12 / PHP 8.5 using Filament 5 and Livewire 4. Online shop system alternative to Magento or WooCommerce or Shopify or CubeCart etc
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [kirschbaum-development/eloquent-power-joins](https://github.com/kirschbaum-development/eloquent-power-joins) - The Laravel magic you know, now applied to joins.
@@ -2537,6 +2536,7 @@
 
 ## mcp 
 
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 13 sub-skills, 6 subagents, extensions system with DataForSEO MCP integration. Technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning.
 - [yutakobayashidev/ava](https://github.com/yutakobayashidev/ava) - Automatically share development progress to Slack through AI. MCP-powered task reporting with privacy-first design.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话
@@ -2558,12 +2558,12 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human opera
 
 ## microservices 
 
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [nashtech-garage/yas](https://github.com/nashtech-garage/yas) - YAS: Yet Another Shop, a sample microservices project in Java
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - AI-ready API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 - [single-spa/single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -3002,7 +3002,7 @@
 
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR-1/2, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server & CLI – run locally without Python.
 - [Azure-Samples/SQL-AI-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
@@ -3039,7 +3039,6 @@
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [feasibleone/blong](https://github.com/feasibleone/blong) - API and DRY focused RAD framework
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type.
 - [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [TinyAGI/tinyclaw](https://github.com/TinyAGI/tinyclaw) - TinyClaw is a team of personal agents that collaborate with each other
@@ -3710,7 +3709,7 @@
 - [PatrickLouys/no-framework-tutorial](https://github.com/PatrickLouys/no-framework-tutorial) - A small tutorial to show how to create a PHP application without a framework.
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
 - [bramus/router](https://github.com/bramus/router) - A lightweight and simple object oriented PHP Router
-- [liberu-ecommerce/ecommerce-laravel](https://github.com/liberu-ecommerce/ecommerce-laravel) - Ecommerce system written in Laravel 12 / PHP 8.4 using Filament 4.0 and Livewire. Online shop system alternative to Magento or WooCommerce or Shopify or CubeCart etc
+- [liberu-ecommerce/ecommerce-laravel](https://github.com/liberu-ecommerce/ecommerce-laravel) - Ecommerce system written in Laravel 12 / PHP 8.5 using Filament 5 and Livewire 4. Online shop system alternative to Magento or WooCommerce or Shopify or CubeCart etc
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [cweiske/jsonmapper](https://github.com/cweiske/jsonmapper) - Map nested JSON structures onto PHP classes
@@ -3979,7 +3978,7 @@
 - [bholmesdev/simple-rsc](https://github.com/bholmesdev/simple-rsc) - A simple React Server Components implementation that you can build yourself 🙌
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A simple framework for humans: Server-first React with zero magic. Built to stay understandable.
+- [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A simple framework for humans Server-first React, running on the Cloudflare platform. Simple to build. Easy to maintain.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
@@ -4818,7 +4817,7 @@
 
 ## tui 
 
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [freqtrade/ftui](https://github.com/freqtrade/ftui) - FTUI - a terminal-based Freqtrade UI client
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -4829,7 +4828,7 @@
 
 ## typescript 
 
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
@@ -4855,7 +4854,7 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - 💾 Simple, fast, object pseudo-database for S3-compatible storages using JSON or Msgpack
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A simple framework for humans: Server-first React with zero magic. Built to stay understandable.
+- [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A simple framework for humans Server-first React, running on the Cloudflare platform. Simple to build. Easy to maintain.
 - [trendy-design/llmchat](https://github.com/trendy-design/llmchat) - Unified interface for AI chat, Agentic workflows and more ...
 - [w3cj/hono-open-api-starter](https://github.com/w3cj/hono-open-api-starter) - A starter template for building fully documented type-safe JSON APIs with Hono and Open API
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -4939,7 +4938,7 @@
 - [gregrickaby/nextjs-wordpress](https://github.com/gregrickaby/nextjs-wordpress) - 💀 It's headless WordPress!
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts, VineJS and Standard Schema
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
-- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads
+- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP ads
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
 - [microsoft/playwright-vscode](https://github.com/microsoft/playwright-vscode) - Playwright Test Visual Studio Code integration
@@ -4948,7 +4947,6 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
-- [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
 - [rakannimer/react-google-charts](https://github.com/rakannimer/react-google-charts) - A thin, typed, React wrapper over Google Charts Visualization and Charts API.
@@ -5073,7 +5071,7 @@
 - [juanmcasillas/gopro2gpx](https://github.com/juanmcasillas/gopro2gpx) - Parse the gpmd stream for GOPRO moov track (MP4) and extract the GPS info into a GPX (and kml) file.
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads
+- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP ads
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
