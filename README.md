@@ -204,7 +204,7 @@
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [nytimes/openapi2proto](https://github.com/nytimes/openapi2proto) - A tool for generating Protobuf v3 schemas and gRPC service definitions from OpenAPI specifications
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - AI-ready API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human opera
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [optiv/Freeze](https://github.com/optiv/Freeze) - Freeze is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls, and alternative execution methods
@@ -956,7 +956,7 @@
 - [wemakewaves/php-docker-bench](https://github.com/wemakewaves/php-docker-bench) - 
 - [bramus/router](https://github.com/bramus/router) - A lightweight and simple object oriented PHP Router
 - [IndexZer0/eloquent-filtering](https://github.com/IndexZer0/eloquent-filtering) - Easily filter eloquent models using arrays - great for filtering from http requests
-- [liberu-ecommerce/ecommerce-laravel](https://github.com/liberu-ecommerce/ecommerce-laravel) - Ecommerce system written in Laravel 12 / PHP 8.4 using Filament 4.0 and Livewire. Online shop system alternative to Magento or WooCommerce or Shopify or CubeCart etc
+- [liberu-ecommerce/ecommerce-laravel](https://github.com/liberu-ecommerce/ecommerce-laravel) - Ecommerce system written in Laravel 12 / PHP 8.5 using Filament 5 and Livewire 4. Online shop system alternative to Magento or WooCommerce or Shopify or CubeCart etc
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [cweiske/jsonmapper](https://github.com/cweiske/jsonmapper) - Map nested JSON structures onto PHP classes
 - [tedious/Stash](https://github.com/tedious/Stash) - The place to keep your cache.
@@ -1043,7 +1043,7 @@
 
 ## Python 
 
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type.
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 13 sub-skills, 6 subagents, extensions system with DataForSEO MCP integration. Technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning.
 - [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
@@ -1146,6 +1146,7 @@
 - [dpguthrie/yahooquery](https://github.com/dpguthrie/yahooquery) - Python wrapper for an unofficial Yahoo Finance API
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [51bitquant/binance-tradingview-webhook-bot](https://github.com/51bitquant/binance-tradingview-webhook-bot) - A tradingview webhook trading bot for Binance Exchange.
+- [raesene/kube_security_lab](https://github.com/raesene/kube_security_lab) - 
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -1299,7 +1300,6 @@
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
 - [paravz/windows-rsync-backup](https://github.com/paravz/windows-rsync-backup) - Rsync backup script for Windows
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-- [raesene/kube_security_lab](https://github.com/raesene/kube_security_lab) - 
 - [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
 - [Paul-Reed/cloudflare-ufw](https://github.com/Paul-Reed/cloudflare-ufw) - Script to update UFW with Cloudflare IPs
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
@@ -1358,7 +1358,7 @@
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
@@ -1444,7 +1444,7 @@
 - [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV) - https://hellocsv.github.io/HelloCSV/
 - [pj-labs/angular-ssr-docker](https://github.com/pj-labs/angular-ssr-docker) - Angular SSR Demo
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A simple framework for humans: Server-first React with zero magic. Built to stay understandable.
+- [redwoodjs/sdk](https://github.com/redwoodjs/sdk) - A simple framework for humans Server-first React, running on the Cloudflare platform. Simple to build. Easy to maintain.
 - [signcl/docusaurus-prince-pdf](https://github.com/signcl/docusaurus-prince-pdf) - Docusaurus/Fumadocs/etc PDF generator using Prince XML
 - [flash-oss/medici](https://github.com/flash-oss/medici) - Double-entry accounting system for nodejs + mongoose
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
@@ -1730,7 +1730,7 @@
 - [denoland/showcase_chat](https://github.com/denoland/showcase_chat) - 
 - [denoland/merch](https://github.com/denoland/merch) - The Deno shop!
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
-- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads
+- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP ads
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [beekai-oss/little-state-machine](https://github.com/beekai-oss/little-state-machine) - 📠 React custom hook for persist state management
 - [beekai-oss/react-simple-animate](https://github.com/beekai-oss/react-simple-animate) - 🎯 React UI animation made easy
