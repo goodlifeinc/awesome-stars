@@ -2421,7 +2421,7 @@
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [trendy-design/llmchat](https://github.com/trendy-design/llmchat) - Unified interface for AI chat, Agentic workflows and more ...
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -2548,7 +2548,7 @@
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [formulahendry/mcp-server-spec-driven-development](https://github.com/formulahendry/mcp-server-spec-driven-development) - Spec-Driven Development MCP Server, not just Vibe Coding
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
@@ -3033,6 +3033,10 @@
 
 ## others 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
+- [pi0/mdzilla](https://github.com/pi0/mdzilla) - 🦖 Markdown browser for humans and agents.  Browse docs from local directories, GitHub repos, and remote websites — all from your terminal.
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [WordPress/agent-skills](https://github.com/WordPress/agent-skills) - Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices
 - [microsoft/roosterjs](https://github.com/microsoft/roosterjs) - roosterjs is a framework-independent javascript rich text editor.
@@ -3966,7 +3970,7 @@
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [krasimir/forket](https://github.com/krasimir/forket) - Forket is a tool that splits your code to client and server so you have RSC (React Server Components) working without a framework.
-- [kane50613/takumi](https://github.com/kane50613/takumi) - JSX → Image, GIFs or Video
+- [kane50613/takumi](https://github.com/kane50613/takumi) - JSX → Image, GIFs or Video.
 - [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 - [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
