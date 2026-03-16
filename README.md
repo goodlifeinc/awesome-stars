@@ -29,7 +29,6 @@
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Markdown](#markdown)
-- [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -866,10 +865,6 @@
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
-## OCaml 
-
-- [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
-
 ## Others 
 
 - [gemini-cli-extensions/angular](https://github.com/gemini-cli-extensions/angular) - Angular Extension for Gemini CLI
@@ -1015,7 +1010,7 @@
 - [nicholas-wordpress/nearly-headless-theme](https://github.com/nicholas-wordpress/nearly-headless-theme) - Boilerplate used to build nearly-headless WordPress themes
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP
 - [Simply-Static/simply-static](https://github.com/Simply-Static/simply-static) - Convert your WordPress site into a static one with the free WordPress static site generator plugin, Simply Static.
-- [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer, easier configuration, and an improved folder structure
+- [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer and Git, easier configuration, and an improved folder structure
 - [governmentbg/data-gov-bg](https://github.com/governmentbg/data-gov-bg) - Проект BG05SFOP001-2.001-0001 „Подобряване на процесите, свързани с предоставянето,  достъпа и повторното използване на информацията от обществения сектор“; Licensed under the EUPL
 - [Codeception/Codeception](https://github.com/Codeception/Codeception) - Full-stack testing PHP framework
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
@@ -1263,6 +1258,7 @@
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [bytecodealliance/lucet](https://github.com/bytecodealliance/lucet) - Lucet, the Sandboxing WebAssembly Compiler.
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
+- [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 
 ## SCSS 
 
