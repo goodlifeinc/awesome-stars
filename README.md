@@ -1198,7 +1198,7 @@
 - [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR-1/2, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server & CLI – run locally without Python.
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [coder/httpjail](https://github.com/coder/httpjail) - HTTP(s) request filter for processes
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Bring JSX and gets Image, GIF or Video.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Render image, GIF or video from JSX-like syntax.
 - [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
@@ -1288,7 +1288,6 @@
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
-- [nrjdalal/gitpick](https://github.com/nrjdalal/gitpick) - Clone exactly what you need aka straightforward project scaffolding!
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [YOURLS/containers](https://github.com/YOURLS/containers) - 📦 Container Images for YOURLS
 - [matomo-org/docker](https://github.com/matomo-org/docker) - Official Docker project for Matomo Analytics
@@ -1451,6 +1450,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native & Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment o
+- [nrjdalal/gitpick](https://github.com/nrjdalal/gitpick) - Clone exactly what you need aka straightforward project scaffolding!
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [yusukebe/vite-ssr-components](https://github.com/yusukebe/vite-ssr-components) - JSX Components and Vite plugins for SSR apps
@@ -1765,7 +1765,7 @@
 - [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that harnesses the power of CSS animations to create silky smooth marquees.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
-- [parsify-dev/cashify](https://github.com/parsify-dev/cashify) - 💸  Lightweight currency conversion library, successor of money.js
+- [xxczaki/cashify](https://github.com/xxczaki/cashify) - 💸  Lightweight currency conversion library, successor of money.js
 - [pmndrs/lamina](https://github.com/pmndrs/lamina) - 🍰 An extensible, layer based shader material for ThreeJS
 - [softwaregroup-bg/ut-prime](https://github.com/softwaregroup-bg/ut-prime) - 
 - [shuding/tilg](https://github.com/shuding/tilg) - A magical React Hook that helps you debug components.
