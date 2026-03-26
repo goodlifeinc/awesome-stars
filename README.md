@@ -1345,12 +1345,13 @@
 
 ## Swift 
 
+- [Shpigford/chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [hmarr/vitals](https://github.com/hmarr/vitals) - 📊 A tiny macOS process monitor
 
 ## TypeScript 
 
-- [pascalorg/editor](https://github.com/pascalorg/editor) - 
+- [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [h3js/crossws](https://github.com/h3js/crossws) - 🔌   Cross-platform WebSocket Servers for Node.js, Deno, Bun and Cloudflare Workers.
 - [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [svapnil/iso20022.js](https://github.com/svapnil/iso20022.js) - Create ACH, SEPA, FedNow, SWIFT, RTP payment initiations and process bank statements. Used in production to move hundreds of thousands of dollars a month.
@@ -1424,7 +1425,7 @@
 - [ai/multiocular](https://github.com/ai/multiocular) - ꙮ Review dependencies changes to prevent supply chain attack
 - [schickling/dilagent](https://github.com/schickling/dilagent) - "Deep research for bugs" – Agentic root cause analysis through hypothesis-driven debugging
 - [m-damien/VisualStoryWriting](https://github.com/m-damien/VisualStoryWriting) - 🧙‍♂️ Writing by manipulating visual representations of stories
-- [vitabaks/autobase](https://github.com/vitabaks/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
+- [autobase-tech/autobase](https://github.com/autobase-tech/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
 - [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - Spec-driven development (SDD) for your team's workflow. Kiro style commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI. Support Claude 
 - [laiso/ts-bench](https://github.com/laiso/ts-bench) - Measure and compare the performance of AI coding agents on TypeScript tasks.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
@@ -1468,7 +1469,6 @@
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
 - [trendy-design/llmchat](https://github.com/trendy-design/llmchat) - Unified interface for AI chat, Agentic workflows and more ...
-- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [isnifer/tanstack-start-ssr-hono](https://github.com/isnifer/tanstack-start-ssr-hono) - Tanstack Start (as SSR Frontend) + Hono (as API) https://tanstack-start-ssr-hono.onrender.com
 - [virattt/ai-financial-agent](https://github.com/virattt/ai-financial-agent) - A financial agent for investment research
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
@@ -1510,7 +1510,7 @@
 - [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI
 - [unjs/ohash](https://github.com/unjs/ohash) - # Simple object hashing, serialization and comparison utils.
 - [filipsobol/sonda](https://github.com/filipsobol/sonda) - Universal visualizer and analyzer for JavaScript and CSS. Compatible with most bundlers and frameworks
-- [forge-42/base-stack](https://github.com/forge-42/base-stack) - The best way to start your react-router v7 project
+- [code-forge-io/base-stack](https://github.com/code-forge-io/base-stack) - The best way to start your react-router v7 project
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
 - [addyosmani/filter](https://github.com/addyosmani/filter) - Filter - Web Image Editor
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
@@ -1551,7 +1551,7 @@
 - [midday-ai/packrun](https://github.com/midday-ai/packrun) - npm for agents and humans
 - [Sec-ant/zxing-wasm](https://github.com/Sec-ant/zxing-wasm) - ZXing-C++ WebAssembly as an ES/CJS module with types. Read or write barcodes in various JS runtimes: Web, Node.js, Bun, and Deno.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [forge-42/vite-plugin-icons-spritesheet](https://github.com/forge-42/vite-plugin-icons-spritesheet) - Vite plugin that listens to an icon folder and outputs a spritesheet with optional types to specified location
+- [code-forge-io/vite-plugin-icons-spritesheet](https://github.com/code-forge-io/vite-plugin-icons-spritesheet) - Vite plugin that listens to an icon folder and outputs a spritesheet with optional types to specified location
 - [Sec-ant/barcode-detector](https://github.com/Sec-ant/barcode-detector) - A Barcode Detection API ponyfill/polyfill that uses ZXing-C++ WebAssembly under the hood.
 - [zxing-js/library](https://github.com/zxing-js/library) - Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.
 - [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire: Serverless Devs: Serverless developer tool ( Serverless Devs: Serverless 开发者工具 )
@@ -1831,7 +1831,7 @@
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [mvasin/react-div-100vh](https://github.com/mvasin/react-div-100vh) - A workaround for the '100vh' issue in mobile browsers
-- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 600k monthly downloads. Collection of awesome react hooks
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 650k monthly downloads. Collection of awesome react hooks
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
 - [arcatdmz/nextjs-with-jest-typescript](https://github.com/arcatdmz/nextjs-with-jest-typescript) - A very simple example of Next.js-based website with Jest tests, all written in TypeScript
