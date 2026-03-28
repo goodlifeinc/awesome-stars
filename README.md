@@ -1100,7 +1100,7 @@
 - [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) - Python 3 API wrapper for Garmin Connect to get statistics and set activities
 - [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) - Transparent and Efficient Financial Analysis
 - [thedataflows/pulumi-contabo](https://github.com/thedataflows/pulumi-contabo) - Pulumi provider for Contabo
-- [matin/garth](https://github.com/matin/garth) - Garmin SSO auth + Connect Python client
+- [matin/garth](https://github.com/matin/garth) - [DEPRECATED] Garmin SSO auth + Connect Python client
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin
 - [BMW-E8x-E9x/opendbc](https://github.com/BMW-E8x-E9x/opendbc) - BMW E-series dbc
@@ -1350,13 +1350,14 @@
 
 ## TypeScript 
 
+- [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [h3js/crossws](https://github.com/h3js/crossws) - 🔌   Cross-platform WebSocket Servers for Node.js, Deno, Bun and Cloudflare Workers.
 - [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [svapnil/iso20022.js](https://github.com/svapnil/iso20022.js) - Create ACH, SEPA, FedNow, SWIFT, RTP payment initiations and process bank statements. Used in production to move hundreds of thousands of dollars a month.
 - [productdevbook/etiket](https://github.com/productdevbook/etiket) - Zero-dependency barcode & QR code SVG generator. 40+ formats, styled QR codes, tree-shakeable. Pure TypeScript.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Open-source dashboard for AI agent orchestration. Manage agent fleets, dispatch tasks, track costs, and coordinate multi-agent workflows. Self-hosted, zero dependencies, SQLite-powered.
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [pi0/mdzilla](https://github.com/pi0/mdzilla) - 🦖 Markdown browser for humans and agents.  Browse docs from local directories, GitHub repos, and remote websites — all from your terminal.
@@ -1982,7 +1983,7 @@
 - [rangle/redux-beacon](https://github.com/rangle/redux-beacon) - Analytics integration for Redux and ngrx/store
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (2 kb) internationalization for JavaScript
 - [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React
-- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
