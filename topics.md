@@ -385,7 +385,7 @@
 - [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Engineering decisions  engine that know when they're stale. Frame, compare, decide — with evidence decay and parity enforcement. For Claude Code, Cursor, Gemini CLI, Codex and more.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
-- [laiso/ts-bench](https://github.com/laiso/ts-bench) - Measure and compare the performance of AI coding agents on TypeScript tasks.
+- [laiso/ts-bench](https://github.com/laiso/ts-bench) - Reproducible benchmark CLI for comparing AI coding agents on TypeScript workloads.
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
@@ -2442,7 +2442,7 @@
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [Azure-Samples/SQL-AI-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-- [laiso/ts-bench](https://github.com/laiso/ts-bench) - Measure and compare the performance of AI coding agents on TypeScript tasks.
+- [laiso/ts-bench](https://github.com/laiso/ts-bench) - Reproducible benchmark CLI for comparing AI coding agents on TypeScript workloads.
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
@@ -2583,6 +2583,7 @@
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [formulahendry/mcp-server-spec-driven-development](https://github.com/formulahendry/mcp-server-spec-driven-development) - Spec-Driven Development MCP Server, not just Vibe Coding
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
@@ -3073,7 +3074,7 @@
 
 ## others 
 
-- [pithings/voipi](https://github.com/pithings/voipi) - 🔊 Give your apps, CLIs, and agents a voice. VoiPi is a universal, zero-dependency, free text-to-speech library for JavaScript.
+- [pithings/voipi](https://github.com/pithings/voipi) - 🎙️ Give your apps, CLIs, and agents a voice. VoiPi is a universal, zero-dependency, free text-to-speech library for JavaScript.
 - [ryansolid/dom-expressions](https://github.com/ryansolid/dom-expressions) - A Fine-Grained Runtime for Performant DOM Rendering
 - [chenglou/pretext](https://github.com/chenglou/pretext) - 
 - [magnum6actual/flipoff](https://github.com/magnum6actual/flipoff) - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.
@@ -3126,7 +3127,7 @@
 - [mettle/sendportal](https://github.com/mettle/sendportal) - Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?"  Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Trading Powered by Agent Swarm Intelligence"
 - [huang-julien/nitro-opentelemetry](https://github.com/huang-julien/nitro-opentelemetry) - opentelemetry integration for nitro
 - [kozakdenys/qr-code-styling](https://github.com/kozakdenys/qr-code-styling) - Automaticly generate your styled QR code in your web app.
 - [kenn/react-router-auto-routes](https://github.com/kenn/react-router-auto-routes) - Automatic folder-based routing with colocation for React Router v7+
@@ -4909,7 +4910,7 @@
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [ayuhito/modern-tar](https://github.com/ayuhito/modern-tar) - 🗄 Zero dependency streaming tar parser and writer for every JavaScript runtime.
-- [laiso/ts-bench](https://github.com/laiso/ts-bench) - Measure and compare the performance of AI coding agents on TypeScript tasks.
+- [laiso/ts-bench](https://github.com/laiso/ts-bench) - Reproducible benchmark CLI for comparing AI coding agents on TypeScript workloads.
 - [c15t/c15t](https://github.com/c15t/c15t) - The Developer-First Cookie Banner
 - [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
 - [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
