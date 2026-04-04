@@ -1354,6 +1354,7 @@
 
 ## TypeScript 
 
+- [atilafassina/shieldwall](https://github.com/atilafassina/shieldwall) - Secure your Fullstack App 🛡️
 - [pi0/junior](https://github.com/pi0/junior) - 
 - [matthewp/haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components 👻
 - [productdevbook/portakal](https://github.com/productdevbook/portakal) - Universal printer language SDK — 9 languages, 9 parsers, 63 cross-compilers. TSC, ZPL, EPL, ESC/POS, CPCL, DPL, SBPL, Star PRNT, IPL. Zero dependencies. Pure TypeScript.
