@@ -6,6 +6,7 @@
 ## Contents
 
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [Blade](#blade)
 - [C](#c)
@@ -54,6 +55,10 @@
 ## Assembly 
 
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+
+## Astro 
+
+- [fulldotdev/ui](https://github.com/fulldotdev/ui) - Astro UI component and block library compatible with shadcn/ui
 
 ## Batchfile 
 
@@ -347,6 +352,7 @@
 
 ## JavaScript 
 
+- [simov/slugify](https://github.com/simov/slugify) - Slugifies a string
 - [ryansolid/dom-expressions](https://github.com/ryansolid/dom-expressions) - A Fine-Grained Runtime for Performant DOM Rendering
 - [magnum6actual/flipoff](https://github.com/magnum6actual/flipoff) - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
@@ -467,6 +473,7 @@
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - The most secure, collision-resistant ids optimized for horizontal scaling and performance.
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [softwaregroup-bg/ut-port-sql](https://github.com/softwaregroup-bg/ut-port-sql) - 
+- [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
 - [ldapjs/node-ldapjs](https://github.com/ldapjs/node-ldapjs) - LDAP Client and Server API for node.js
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
@@ -1049,6 +1056,8 @@
 
 ## Python 
 
+- [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
+- [joemccann/market-data-warehouse](https://github.com/joemccann/market-data-warehouse) - A local-first financial data warehouse for universe-scale market data.
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
 - [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google
@@ -1197,7 +1206,9 @@
 
 ## Rust 
 
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
+- [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
+- [codetwentyfive/claw-code-local](https://github.com/codetwentyfive/claw-code-local) - Claw Code for local models — run claw against Ollama, LM Studio, or any OpenAI-compatible endpoint
+- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
 - [microsoft/docfind](https://github.com/microsoft/docfind) - A high-performance document search engine built in Rust with WebAssembly support.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
@@ -1288,6 +1299,7 @@
 
 ## Shell 
 
+- [rfxn/advanced-policy-firewall](https://github.com/rfxn/advanced-policy-firewall) - iptables/netfilter firewall for Linux servers with stateful filtering, trust system, ipset block lists, SYN flood protection, VNET per-IP policies, and Docker support
 - [wowu/docker-rollout](https://github.com/wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
 - [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -1354,6 +1366,8 @@
 
 ## TypeScript 
 
+- [productdevbook/sumak](https://github.com/productdevbook/sumak) - Type-safe SQL query builder. Zero dependencies, AST-first, hookable, tree-shakeable. Pure TypeScript.
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [atilafassina/shieldwall](https://github.com/atilafassina/shieldwall) - Secure your Fullstack App 🛡️
 - [pi0/junior](https://github.com/pi0/junior) - 
 - [matthewp/haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components 👻
@@ -1363,7 +1377,7 @@
 - [pithings/voipi](https://github.com/pithings/voipi) - 🎙️ Give your apps, CLIs, and agents a voice. VoiPi is a universal, zero-dependency, free text-to-speech library for JavaScript.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [productdevbook/hucre](https://github.com/productdevbook/hucre) - Zero-dependency spreadsheet engine. Read & write XLSX, CSV, ODS. Pure TypeScript, works everywhere.
-- [chenglou/pretext](https://github.com/chenglou/pretext) - 
+- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [h3js/crossws](https://github.com/h3js/crossws) - 🔌   Cross-platform WebSocket Servers for Node.js, Deno, Bun and Cloudflare Workers.
@@ -1703,7 +1717,6 @@
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [alebcay/openlens-node-pod-menu](https://github.com/alebcay/openlens-node-pod-menu) - Node and pod menus for OpenLens
 - [urban-bot/urban-bot](https://github.com/urban-bot/urban-bot) - 🤖 The universal chatbot library based on React. Write once, launch Telegram, Discord, Facebook, ... every messenger with chatbots
-- [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [itbruno/linksforall](https://github.com/itbruno/linksforall) - Linksforall its a link page with custom filters to keep all your links in one place, created with NextJS/Tailwind CSS
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
