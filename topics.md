@@ -1894,7 +1894,7 @@
 ## html5 
 
 - [Ekliptor/WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for NodeJS
-- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP ads
+- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP/SIMID/non-linear ads
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 
@@ -2091,7 +2091,7 @@
 - [pillarjs/router](https://github.com/pillarjs/router) - Simple middleware-style router
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
-- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP ads
+- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP/SIMID/non-linear ads
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
@@ -5044,7 +5044,7 @@
 - [gregrickaby/nextjs-wordpress](https://github.com/gregrickaby/nextjs-wordpress) - 💀 It's headless WordPress!
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts, VineJS and Standard Schema
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
-- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP ads
+- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP/SIMID/non-linear ads
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
 - [microsoft/playwright-vscode](https://github.com/microsoft/playwright-vscode) - Playwright Test Visual Studio Code integration
@@ -5178,7 +5178,7 @@
 - [juanmcasillas/gopro2gpx](https://github.com/juanmcasillas/gopro2gpx) - Parse the gpmd stream for GOPRO moov track (MP4) and extract the GPS info into a GPX (and kml) file.
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP ads
+- [openplayerjs/openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VMAP/SIMID/non-linear ads
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
