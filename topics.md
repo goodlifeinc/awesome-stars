@@ -2873,7 +2873,7 @@
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [ayuhito/modern-tar](https://github.com/ayuhito/modern-tar) - 🗄 Zero dependency streaming tar parser and writer for every JavaScript runtime.
-- [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq @backblaze @hetzner
+- [good-lly/s3mini](https://github.com/good-lly/s3mini) - ⚠️  Moved to Codeberg: https://codeberg.org/thinking_tools/s3mini - Tiny S3 client. Edge computing ready. No-dep. In Typescript.
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
@@ -4605,7 +4605,7 @@
 - [atilafassina/shieldwall](https://github.com/atilafassina/shieldwall) - Secure your Fullstack App 🛡️
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - 💾 Simple, fast, object pseudo-database for S3-compatible storages using JSON or Msgpack
-- [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq @backblaze @hetzner
+- [good-lly/s3mini](https://github.com/good-lly/s3mini) - ⚠️  Moved to Codeberg: https://codeberg.org/thinking_tools/s3mini - Tiny S3 client. Edge computing ready. No-dep. In Typescript.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [postalsys/postal-mime](https://github.com/postalsys/postal-mime) - Email parser for browser and serverless environments
