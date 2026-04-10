@@ -371,7 +371,7 @@
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [nodeshift/opossum](https://github.com/nodeshift/opossum) - Node.js circuit breaker - fails fast  ⚡️
 - [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - 💾 Simple, fast, object pseudo-database for S3-compatible storages using JSON or Msgpack
-- [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq @backblaze @hetzner
+- [good-lly/s3mini](https://github.com/good-lly/s3mini) - ⚠️  Moved to Codeberg: https://codeberg.org/thinking_tools/s3mini - Tiny S3 client. Edge computing ready. No-dep. In Typescript.
 - [jkroso/parse-svg-path](https://github.com/jkroso/parse-svg-path) - A minimal svg path parser
 - [mattdesl/extract-svg-path](https://github.com/mattdesl/extract-svg-path) - extracts a string of subpaths from an svg file
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
