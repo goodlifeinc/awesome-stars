@@ -161,7 +161,7 @@
 - [m0n0x41d/haft](https://github.com/m0n0x41d/haft) - Engineering decisions  engine that know when they're stale. Frame, compare, decide — with evidence decay and parity enforcement. For Claude Code, Cursor, Gemini CLI, Codex and more.
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys.
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The tiniest authentication and authorization server you have ever seen.
+- [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest authentication and authorization server you have ever seen.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
@@ -1506,7 +1506,7 @@
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
 - [trendy-design/llmchat](https://github.com/trendy-design/llmchat) - Unified interface for AI chat, Agentic workflows and more ...
-- [punkpeye/vitemcp](https://github.com/punkpeye/vitemcp) - A TypeScript framework for building MCP servers.
+- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [isnifer/tanstack-start-ssr-hono](https://github.com/isnifer/tanstack-start-ssr-hono) - Tanstack Start (as SSR Frontend) + Hono (as API) https://tanstack-start-ssr-hono.onrender.com
 - [virattt/ai-financial-agent](https://github.com/virattt/ai-financial-agent) - A financial agent for investment research
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
@@ -1691,7 +1691,7 @@
 - [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
 - [yassinedoghri/astro-i18next](https://github.com/yassinedoghri/astro-i18next) - An astro integration of i18next + some utility components to help you translate your astro websites!
 - [boywithkeyboard-archive/cheetah1](https://github.com/boywithkeyboard-archive/cheetah1) - A framework for the modern web. (NO LONGER MAINTAINED)
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
+- [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [mozmorris/react-webcam](https://github.com/mozmorris/react-webcam) - Webcam component
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -1767,7 +1767,7 @@
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [gregrickaby/nextjs-wordpress](https://github.com/gregrickaby/nextjs-wordpress) - 💀 It's headless WordPress!
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [darkroomengineering/satus](https://github.com/darkroomengineering/satus) - Advanced Next.js App Router starter for content-driven sites
 - [h3js/h3](https://github.com/h3js/h3) - ⚡️ Minimal H(TTP) framework built for high performance and portability
