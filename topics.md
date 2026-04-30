@@ -2180,7 +2180,7 @@
 - [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
-- [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
+- [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling cookies, client-side.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [facebook/fbt](https://github.com/facebook/fbt) - A JavaScript Internationalization Framework
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -3178,7 +3178,6 @@
 - [zereight/gitlab-mcp](https://github.com/zereight/gitlab-mcp) - First gitlab mcp for you
 - [niklaserik/effect-mcp](https://github.com/niklaserik/effect-mcp) - A mcp server for fetching the Effect-ts documentation
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
-- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [photon-js/photon](https://github.com/photon-js/photon) - Next-generation infrastructure for deploying any JavaScript server.
 - [ai/multiocular](https://github.com/ai/multiocular) - ꙮ Review dependencies changes to prevent supply chain attack
 - [schickling/dilagent](https://github.com/schickling/dilagent) - "Deep research for bugs" – Agentic root cause analysis through hypothesis-driven debugging
@@ -3303,7 +3302,6 @@
 - [shopsys/shopsys](https://github.com/shopsys/shopsys) - Main repository for maintaining Shopsys Platform packages. Open for ISSUES and PULL REQUESTS.
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - The agent engineering platform
 - [virattt/financial-agent-ui](https://github.com/virattt/financial-agent-ui) - Financial agent + generative UI
-- [boazsender/privacy-stack](https://github.com/boazsender/privacy-stack) - A remix.run stack focused on privacy.
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [nksaraf/map-gsheets](https://github.com/nksaraf/map-gsheets) - 
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
@@ -4925,6 +4923,7 @@
 ## tui 
 
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [freqtrade/ftui](https://github.com/freqtrade/ftui) - FTUI - a terminal-based Freqtrade UI client
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
