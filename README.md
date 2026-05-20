@@ -59,7 +59,7 @@
 
 ## Astro 
 
-- [fulldotdev/ui](https://github.com/fulldotdev/ui) - Astro UI component and block library compatible with shadcn/ui
+- [fulldotdev/ui](https://github.com/fulldotdev/ui) - Components and Blocks for building content-driven Astro websites
 
 ## Batchfile 
 
