@@ -651,7 +651,7 @@
 - [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
 - [parmsang/gatsby-starter-ecommerce](https://github.com/parmsang/gatsby-starter-ecommerce) - Gatsby starter for creating an eCommerce site using the Moltin eCommerce Api
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
-- [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
+- [bigcalendar/react-big-calendar](https://github.com/bigcalendar/react-big-calendar) - gcal/outlook like calendar component
 - [babel/eslint-plugin-babel](https://github.com/babel/eslint-plugin-babel) - An ESlint rule plugin companion to babel-eslint
 - [flipbyte/formik-json-schema](https://github.com/flipbyte/formik-json-schema) - Easily create react forms using JSON / Javascript Object
 - [ruzicka/immutable-custom-merge](https://github.com/ruzicka/immutable-custom-merge) - Allows deep merging of Immutable objects with custom per-property merging strategy
