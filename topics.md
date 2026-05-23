@@ -3678,7 +3678,7 @@
 - [zendeskgarden/react-components](https://github.com/zendeskgarden/react-components) - :seedling: garden React components
 - [DinoChiesa/deserialize-xml-arrays-jackson](https://github.com/DinoChiesa/deserialize-xml-arrays-jackson) - 
 - [aarondl/authboss](https://github.com/aarondl/authboss) - The boss of http auth.
-- [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
+- [bigcalendar/react-big-calendar](https://github.com/bigcalendar/react-big-calendar) - gcal/outlook like calendar component
 - [flipbyte/formik-json-schema](https://github.com/flipbyte/formik-json-schema) - Easily create react forms using JSON / Javascript Object
 - [ruzicka/immutable-custom-merge](https://github.com/ruzicka/immutable-custom-merge) - Allows deep merging of Immutable objects with custom per-property merging strategy
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
