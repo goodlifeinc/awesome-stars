@@ -552,7 +552,6 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [pasdo501/gatsby-source-woocommerce](https://github.com/pasdo501/gatsby-source-woocommerce) - Gatsy Source Plugin for WooCommerce
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
-- [DevExpress/DevExtreme](https://github.com/DevExpress/DevExtreme) - HTML5 JavaScript Component Suite for Responsive Web Development
 - [krasimir/miss-piggy](https://github.com/krasimir/miss-piggy) - Test runner for Puppeteer
 - [transform-it/transform-json-types](https://github.com/transform-it/transform-json-types) - An utility to generate Flow, TypeScript, Rust Serde Struct and Scala Case Class from JSON.
 - [stephencookdev/speed-measure-webpack-plugin](https://github.com/stephencookdev/speed-measure-webpack-plugin) - ⏱ See how fast (or not) your plugins and loaders are, so you can optimise your builds
@@ -1911,6 +1910,7 @@
 - [unlayer/react-email-editor](https://github.com/unlayer/react-email-editor) - Drag-n-Drop Email Editor Component for React.js
 - [ice-lab/icestark](https://github.com/ice-lab/icestark) - :tiger: Micro Frontends solution for large application（面向大型应用的微前端解决方案），站点国内镜像：https://icestark.gitee.io
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
+- [DevExpress/DevExtreme](https://github.com/DevExpress/DevExtreme) - HTML5 JavaScript Component Suite for Responsive Web Development
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [baptisteArno/tinking](https://github.com/baptisteArno/tinking) - 🧶 Extract data from any website without code, just clicks.
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
