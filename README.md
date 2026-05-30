@@ -870,6 +870,7 @@
 ## MDX 
 
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## Markdown 
 
@@ -943,7 +944,6 @@
 - [mraible/history-of-web-frameworks-timeline](https://github.com/mraible/history-of-web-frameworks-timeline) - The history of web frameworks as described by a timeline of releases.
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
-- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [lukehoban/es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 - [websemantics/awesome-ant-design](https://github.com/websemantics/awesome-ant-design) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to
