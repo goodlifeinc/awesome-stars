@@ -1940,7 +1940,6 @@
 - [tvler/experimental-react-like-framework](https://github.com/tvler/experimental-react-like-framework) - A frontend for React inspired by SwiftUI
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
-- [ngneat/forms-manager](https://github.com/ngneat/forms-manager) - 🦄 The Foundation for Proper Form Management in Angular
 - [SortableJS/react-sortablejs](https://github.com/SortableJS/react-sortablejs) - React bindings for SortableJS
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
