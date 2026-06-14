@@ -147,7 +147,7 @@
 ## Dockerfile 
 
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
-- [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
+- [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker. Run Laravel, Symfony, WordPress, Drupal, Magento, CodeIgniter, Yii, Lumen, Phalcon, CakePHP or any PHP project with 70+ pre-configured services: Nginx, Apa
 - [joseluisq/alpine-php-fpm](https://github.com/joseluisq/alpine-php-fpm) - Lightweight & optimized Multi-Arch Docker Images (x86_64/arm/arm64) for PHP-FPM (PHP 8.1, 8.2, 8.3) with essential extensions on top of latest Alpine Linux. :elephant:
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 
@@ -1082,7 +1082,7 @@
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for long-running agentic tasks. Crash-proof markdown plans, deterministic completion gate, multi-agent shared state on disk. Works with Claude Code, Codex CLI, Cursor, H
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
