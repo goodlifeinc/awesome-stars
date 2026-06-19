@@ -1065,6 +1065,7 @@
 
 ## Python 
 
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [Abilityai/trinity](https://github.com/Abilityai/trinity) - Sovereign infrastructure for autonomous AI agents. Claude Code lets you create assistants - Trinity turns them into autonomous employees that run 24/7, remember, and coordinate. Apache 2.0, self-hoste
 - [openai/role-specific-plugins](https://github.com/openai/role-specific-plugins) - Role-specific Codex plugin templates
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
