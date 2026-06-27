@@ -925,6 +925,7 @@
 
 ## code-review 
 
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
 
 ## coding 
@@ -3157,6 +3158,7 @@
 
 ## openai 
 
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
@@ -3631,7 +3633,7 @@
 - [nicholas-wordpress/nearly-headless-theme](https://github.com/nicholas-wordpress/nearly-headless-theme) - Boilerplate used to build nearly-headless WordPress themes
 - [bspk/mkjwk.org](https://github.com/bspk/mkjwk.org) - 
 - [cthackers/adm-zip](https://github.com/cthackers/adm-zip) - A Javascript implementation of zip for nodejs. Allows user to create or extract zip files both in memory or to/from disk
-- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
+- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (340 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [gaearon/react-lag-radar](https://github.com/gaearon/react-lag-radar) - 
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
@@ -3765,7 +3767,7 @@
 - [ivo-/bund](https://github.com/ivo-/bund) - Natural, no-boilerplate immutable state management for JavaScript apps
 - [scroll-into-view/smooth-scroll-into-view-if-needed](https://github.com/scroll-into-view/smooth-scroll-into-view-if-needed) - Smoothly scroll elements into view, cross browser!
 - [kristianmandrup/schema-to-yup](https://github.com/kristianmandrup/schema-to-yup) - Schema to Yup validation
-- [react-component/steps](https://github.com/react-component/steps) - React Steps
+- [react-component/steps](https://github.com/react-component/steps) - 🚶 Step workflow component for React
 - [faceyspacey/react-universal-component](https://github.com/faceyspacey/react-universal-component) - 🚀 The final answer to a React Universal Component: simultaneous SSR + Code Splitting
 - [microsoft/vscode-recipes](https://github.com/microsoft/vscode-recipes) - 
 - [davidmoten/rxjava-jdbc](https://github.com/davidmoten/rxjava-jdbc) - Efficient execution and functional composition of database calls using jdbc and RxJava Observables
@@ -4307,7 +4309,7 @@
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [mvasin/react-div-100vh](https://github.com/mvasin/react-div-100vh) - A workaround for the '100vh' issue in mobile browsers
-- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 650k monthly downloads. Collection of awesome react hooks
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 890k monthly downloads. Collection of awesome react hooks
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
@@ -4494,7 +4496,7 @@
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [Aljullu/react-lazy-load-image-component](https://github.com/Aljullu/react-lazy-load-image-component) - React Component to lazy load images and components using a HOC to track window scroll position.
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
-- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 650k monthly downloads. Collection of awesome react hooks
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 890k monthly downloads. Collection of awesome react hooks
 - [alvarotrigo/react-fullpage](https://github.com/alvarotrigo/react-fullpage) - Official React.js wrapper for fullPage.js https://alvarotrigo.com/react-fullpage/
 - [luukdv/gooey-react](https://github.com/luukdv/gooey-react) - The gooey effect for React, used for shape blobbing / metaballs (0.5 KB) 🧽
 - [umijs/hox](https://github.com/umijs/hox) - State sharing for React components.
@@ -5212,7 +5214,7 @@
 - [mirshko/next-web3-boilerplate](https://github.com/mirshko/next-web3-boilerplate) - Slightly opinionated Next.js Web3 boilerplate built on ethers, web3-react, Typechain, and SWR.
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
-- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 650k monthly downloads. Collection of awesome react hooks
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 890k monthly downloads. Collection of awesome react hooks
 - [arcatdmz/nextjs-with-jest-typescript](https://github.com/arcatdmz/nextjs-with-jest-typescript) - A very simple example of Next.js-based website with Jest tests, all written in TypeScript
 - [w3bdesign/nextjs-woocommerce](https://github.com/w3bdesign/nextjs-woocommerce) - 🔥 Next.js (React) headless eCommerce site with Typescript, WordPress (WooCommerce) backend and Algolia search
 - [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - 👀  Easily apply tilt hover effect to React components - lightweight/zero dependencies 2.9kB
@@ -5279,6 +5281,7 @@
 
 ## ui 
 
+- [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
 - [fulldotdev/ui](https://github.com/fulldotdev/ui) - Components and Blocks for building content-driven Astro websites
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - MagenticLite is an experimental agent that works across the browser and local file system
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
