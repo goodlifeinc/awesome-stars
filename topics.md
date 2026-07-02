@@ -144,6 +144,7 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [laravel](#laravel)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -2495,6 +2496,10 @@
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 
+## learn-to-code 
+
+- [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com/colbyfayock/50-projects-for-react-and-the-static-web) - ⚛ 50 project ideas to learn by doing complete with project briefs, layout ideas, and resources!
+
 ## learning 
 
 - [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com/colbyfayock/50-projects-for-react-and-the-static-web) - ⚛ 50 project ideas to learn by doing complete with project briefs, layout ideas, and resources!
@@ -2998,7 +3003,7 @@
 - [lazarv/react-server](https://github.com/lazarv/react-server) - Run React anywhere
 - [magic8bot/magic8bot](https://github.com/magic8bot/magic8bot) - Magic8bot is a cryptocurrency trading bot using Node.js and MongoDB.
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
-- [cellajs/cella](https://github.com/cellajs/cella) - Template to build web apps with sync engine for offline and realtime use. Postgres, openapi & react-query are foundational layers.
+- [cellajs/cella](https://github.com/cellajs/cella) - Template to build modern web apps with a classic REST API. Ideal if you need offline & real-time features on day one.
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Package manager version manager for Node.js projects
 - [Ekliptor/WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for NodeJS
@@ -4228,7 +4233,6 @@
 - [lazarv/react-server](https://github.com/lazarv/react-server) - Run React anywhere
 - [epicweb-dev/react-server-components](https://github.com/epicweb-dev/react-server-components) - Understand React Server Components and Server Actions by building a framework with them.
 - [americanexpress/react-albus](https://github.com/americanexpress/react-albus) - ✨ React component library for building declarative multi-step flows.
-- [cellajs/cella](https://github.com/cellajs/cella) - Template to build web apps with sync engine for offline and realtime use. Postgres, openapi & react-query are foundational layers.
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
@@ -4627,6 +4631,7 @@
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [shepmaster/snafu](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
@@ -5590,7 +5595,6 @@
 ## zig 
 
 - [ije/md4w](https://github.com/ije/md4w) - A Markdown renderer written in Zig & C, compiled to WebAssymbly.
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## zsh 
 
