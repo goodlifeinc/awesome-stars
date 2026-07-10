@@ -282,6 +282,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [workflow](#workflow)
 - [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
@@ -333,7 +334,7 @@
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - MagenticLite is an experimental agent that works across the browser and local file system
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
@@ -390,7 +391,7 @@
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - MagenticLite is an experimental agent that works across the browser and local file system
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [trendy-design/llmchat](https://github.com/trendy-design/llmchat) - Unified interface for AI chat, Agentic workflows and more ...
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
@@ -439,7 +440,7 @@
 - [laiso/ts-bench](https://github.com/laiso/ts-bench) - Benchmark CLI for comparing AI coding agents on TypeScript workloads.
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
 - [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
@@ -1050,7 +1051,7 @@
 
 ## css 
 
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX, HTML, and CSS to SVG or images without a headless browser. OG cards, animated GIFs, and video frames from Node.js, edge runtimes, browsers, or Rust. Drop-in next/og replacement.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX, HTML, and CSS to SVG or images. Drop-in next/og replacement.
 - [syntaxfm/website](https://github.com/syntaxfm/website) - Syntax Podcast Website
 - [filipsobol/sonda](https://github.com/filipsobol/sonda) - Universal visualizer and analyzer for JavaScript and CSS. Compatible with most bundlers and frameworks
 - [Ekliptor/WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for NodeJS
@@ -1218,7 +1219,7 @@
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen
 - [m0n0x41d/haft](https://github.com/m0n0x41d/haft) - Engineering decisions engine that know when they're stale. Frame, compare, decide — with evidence decay and parity enforcement. For Claude Code, Cursor, Gemini CLI, Codex and more.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -3009,7 +3010,7 @@
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [ayuhito/modern-tar](https://github.com/ayuhito/modern-tar) - 🗄 Zero dependency streaming tar parser and writer for every JavaScript runtime.
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX, HTML, and CSS to SVG or images without a headless browser. OG cards, animated GIFs, and video frames from Node.js, edge runtimes, browsers, or Rust. Drop-in next/og replacement.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX, HTML, and CSS to SVG or images. Drop-in next/og replacement.
 - [good-lly/s3mini](https://github.com/good-lly/s3mini) - ⚠️  Moved to Codeberg: https://codeberg.org/thinking_tools/s3mini - Tiny S3 client. Edge computing ready. No-dep. In Typescript.
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -3239,8 +3240,9 @@
 
 ## others 
 
+- [h3js/h3-rules](https://github.com/h3js/h3-rules) - [WIP] Declarative route rules for H3: Define route rules (redirect, proxy, headers, cache, basic auth, CORS) to patterns. [WIP]
 - [lukeed/sirv](https://github.com/lukeed/sirv) - An optimized middleware & CLI application for serving static files~!
-- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent wikis for codebases or purpose memory.
 - [e18e/module-replacements](https://github.com/e18e/module-replacements) - A manifest of JS modules and their more modern/active replacements
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
@@ -4122,7 +4124,7 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
 - [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) - Transparent and Efficient Financial Analysis
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by QPDF
@@ -4226,7 +4228,7 @@
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [krasimir/forket](https://github.com/krasimir/forket) - Forket is a tool that splits your code to client and server so you have RSC (React Server Components) working without a framework.
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX, HTML, and CSS to SVG or images without a headless browser. OG cards, animated GIFs, and video frames from Node.js, edge runtimes, browsers, or Rust. Drop-in next/og replacement.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX, HTML, and CSS to SVG or images. Drop-in next/og replacement.
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
@@ -4643,7 +4645,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR-1/2, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server & CLI – run locally without Python.
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX, HTML, and CSS to SVG or images without a headless browser. OG cards, animated GIFs, and video frames from Node.js, edge runtimes, browsers, or Rust. Drop-in next/og replacement.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX, HTML, and CSS to SVG or images. Drop-in next/og replacement.
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
@@ -4981,7 +4983,7 @@
 
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX, HTML, and CSS to SVG or images without a headless browser. OG cards, animated GIFs, and video frames from Node.js, edge runtimes, browsers, or Rust. Drop-in next/og replacement.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - Render JSX, HTML, and CSS to SVG or images. Drop-in next/og replacement.
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [trendy-design/llmchat](https://github.com/trendy-design/llmchat) - Unified interface for AI chat, Agentic workflows and more ...
@@ -5605,6 +5607,14 @@
 - [imranhsayed/woo-next](https://github.com/imranhsayed/woo-next) - :rocket: React WooCommerce theme, built with Next JS, Webpack, Babel, Node, Express, using GraphQL and Apollo Client
 - [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer and Git, easier configuration, and an improved folder structure
 - [frontity/frontity](https://github.com/frontity/frontity) - » Frontity - The React Framework for WordPress
+
+## workflow 
+
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 
 ## xcode 
 
