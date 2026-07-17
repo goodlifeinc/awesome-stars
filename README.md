@@ -1126,7 +1126,7 @@
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) - Demo of a customer service use case implemented with the OpenAI Agents SDK
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [matin/garth-mcp-server](https://github.com/matin/garth-mcp-server) - Garmin Connect MCP server based on Garth
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - MagenticLite is an experimental agent that works across the browser and local file system
 - [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana
@@ -1396,6 +1396,7 @@
 
 ## TypeScript 
 
+- [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) - Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
 - [DEVtheOPS/opencode-plugin-otel](https://github.com/DEVtheOPS/opencode-plugin-otel) - An opencode plugin that exports telemetry via OpenTelemetry (OTLP/gRPC), mirroring the same signals as Claude Code's monitoring.
 - [railpath/finance-toolkit](https://github.com/railpath/finance-toolkit) - Production-ready finance library for portfolio construction, risk analytics, and quantitative metrics. Modular TypeScript toolkit for DeFi and TradFi risk assessment.
 - [h3js/h3-rules](https://github.com/h3js/h3-rules) - [WIP] Declarative route rules for H3: Define route rules (redirect, proxy, headers, cache, basic auth, CORS) to patterns. [WIP]
