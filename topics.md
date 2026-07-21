@@ -3244,6 +3244,7 @@
 
 ## others 
 
+- [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [DEVtheOPS/opencode-plugin-otel](https://github.com/DEVtheOPS/opencode-plugin-otel) - An opencode plugin that exports telemetry via OpenTelemetry (OTLP/gRPC), mirroring the same signals as Claude Code's monitoring.
 - [h3js/h3-rules](https://github.com/h3js/h3-rules) - [WIP] Declarative route rules for H3: Define route rules (redirect, proxy, headers, cache, basic auth, CORS) to patterns. [WIP]
 - [lukeed/sirv](https://github.com/lukeed/sirv) - An optimized middleware & CLI application for serving static files~!
