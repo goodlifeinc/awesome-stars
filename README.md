@@ -72,6 +72,7 @@
 
 ## C 
 
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [RumenDamyanov/nginx-torblocker](https://github.com/RumenDamyanov/nginx-torblocker) - 🛡️ Nginx TorBlocker - Automatically protect your web applications from Tor traffic with this lightweight, configurable dynamic module.
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [rgerganov/ggtag](https://github.com/rgerganov/ggtag) - programmable e-paper tag with RFID
@@ -1237,6 +1238,7 @@
 
 ## Rust 
 
+- [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [theseus-rs/rsql](https://github.com/theseus-rs/rsql) - Command line SQL interface for relational databases and common data file formats
@@ -1421,7 +1423,6 @@
 - [AlemTuzlak/kiira](https://github.com/AlemTuzlak/kiira) - Type-check the TypeScript & JavaScript code in your Markdown against your real project — in your editor, the CLI, and CI.
 - [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI  —  The Starting Point for Next-Gen Agents
 - [Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code) - Gajae Code MVP
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [vudovn/ag-kit](https://github.com/vudovn/ag-kit) - 
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
