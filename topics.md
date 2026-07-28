@@ -211,6 +211,7 @@
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
+- [quant](#quant)
 - [quantitative-finance](#quantitative-finance)
 - [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
@@ -802,7 +803,7 @@
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-- [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀
+- [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [autoshow/autoshow](https://github.com/autoshow/autoshow) - End-to-end workflow to automatically generate show notes from audio/video transcripts
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -1473,7 +1474,7 @@
 
 - [ebradyjobory/finance.js](https://github.com/ebradyjobory/finance.js) - A JavaScript library for common financial calculations
 - [railpath/finance-toolkit](https://github.com/railpath/finance-toolkit) - Production-ready finance library for portfolio construction, risk analytics, and quantitative metrics. Modular TypeScript toolkit for DeFi and TradFi risk assessment.
-- [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀
+- [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [gadicc/yahoo-finance2](https://github.com/gadicc/yahoo-finance2) - Unofficial API for Yahoo Finance with CLI, MCP and Agent Skill
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
@@ -3335,7 +3336,7 @@
 - [huang-julien/nitro-opentelemetry](https://github.com/huang-julien/nitro-opentelemetry) - opentelemetry integration for nitro
 - [kozakdenys/qr-code-styling](https://github.com/kozakdenys/qr-code-styling) - Automaticly generate your styled QR code in your web app.
 - [kenn/react-router-auto-routes](https://github.com/kenn/react-router-auto-routes) - Automatic folder-based routing with colocation for React Router v7+
-- [johannschopplich/tokenx](https://github.com/johannschopplich/tokenx) - 📐 Fast token estimation at ~95% accuracy of a full tokenizer in a 2kB bundle
+- [johannschopplich/tokenx](https://github.com/johannschopplich/tokenx) - 📐 Fast token estimation at ~96% accuracy of a full tokenizer in a 2kB bundle
 - [CodeDredd/h3-compression](https://github.com/CodeDredd/h3-compression) - Adds compression to h3 requests (brotli, gzip, deflate)
 - [productdevbook/nuxt-keycloak](https://github.com/productdevbook/nuxt-keycloak) - Comprehensive Keycloak authentication module for Nuxt 4 with SSR support, auto token refresh, role-based guards, and TypeScript.
 - [phpList/phplist3](https://github.com/phpList/phplist3) - Fully functional Open Source email marketing manager for creating, sending, integrating, and analysing email campaigns and newsletters.
@@ -4091,7 +4092,7 @@
 
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-- [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀
+- [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
@@ -4189,6 +4190,10 @@
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
+## quant 
+
+- [cinar/indicatorts](https://github.com/cinar/indicatorts) - Indicator TS delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀
 
 ## quantitative-finance 
 
