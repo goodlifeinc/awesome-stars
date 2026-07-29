@@ -117,6 +117,7 @@
 - [cognitom/paper-css](https://github.com/cognitom/paper-css) - Paper CSS for happy printing
 - [joecohens/epoch](https://github.com/joecohens/epoch) - A simple but powerful Epoch converter
 - [B00merang-Project/macOS](https://github.com/B00merang-Project/macOS) - macOS theme for Gnome and GTK-based desktops
+- [froala/wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
 - [HackBulgaria/AngularJS-1](https://github.com/HackBulgaria/AngularJS-1) - The repository for the AngularJS course in Hack Bulgaria
@@ -887,7 +888,6 @@
 
 ## Others 
 
-- [Factory-AI/factory](https://github.com/Factory-AI/factory) - Factory - Agent-Native Software Development
 - [gemini-cli-extensions/angular](https://github.com/gemini-cli-extensions/angular) - Angular Extension for Gemini CLI
 - [gemini-cli-extensions/code-review](https://github.com/gemini-cli-extensions/code-review) - Google's Code Review extension for the Gemini CLI that reviews your code changes
 - [ggelashvili/learnphptherightway-project](https://github.com/ggelashvili/learnphptherightway-project) - 
@@ -1072,7 +1072,7 @@
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [Abilityai/trinity](https://github.com/Abilityai/trinity) - Self-hosted runtime for autonomous Claude Code (and other CLI) AI agents. Apache 2.0.
+- [Abilityai/trinity](https://github.com/Abilityai/trinity) - Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) - 
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
