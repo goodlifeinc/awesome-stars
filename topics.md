@@ -1978,7 +1978,6 @@
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
-- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -3746,7 +3745,7 @@
 - [tape-testing/tape](https://github.com/tape-testing/tape) - tap-producing test harness for node and browsers
 - [dominictarr/map-filter-reduce](https://github.com/dominictarr/map-filter-reduce) - 
 - [lindelof/particles-bg](https://github.com/lindelof/particles-bg) - React particles animation background component
-- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
+- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive email easy
 - [StoyanKostov/MediaServer](https://github.com/StoyanKostov/MediaServer) - 
 - [sindresorhus/sort-keys](https://github.com/sindresorhus/sort-keys) - Sort the keys of an object
 - [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang
