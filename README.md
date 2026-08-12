@@ -582,7 +582,7 @@
 - [dominictarr/map-filter-reduce](https://github.com/dominictarr/map-filter-reduce) - 
 - [svrcekmichal/redux-axios-middleware](https://github.com/svrcekmichal/redux-axios-middleware) - Redux middleware for fetching data with axios HTTP client
 - [lindelof/particles-bg](https://github.com/lindelof/particles-bg) - React particles animation background component
-- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
+- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive email easy
 - [StoyanKostov/MediaServer](https://github.com/StoyanKostov/MediaServer) - 
 - [sindresorhus/sort-keys](https://github.com/sindresorhus/sort-keys) - Sort the keys of an object
 - [cli-table/cli-table3](https://github.com/cli-table/cli-table3) - Pretty unicode tables for the command line
