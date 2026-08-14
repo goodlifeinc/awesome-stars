@@ -390,7 +390,7 @@
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
 - [OlivierEstevez/astro-masonry](https://github.com/OlivierEstevez/astro-masonry) - Zero-dependency responsive masonry layout component for Astro with minimal setup.
 - [shspage/illustrator-scripts](https://github.com/shspage/illustrator-scripts) - JavaScript scripts for Adobe Illustrator CSx.
-- [absolute-version/commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) - Fork of the excellent standard-version. Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org :trophy:
+- [absolute-version/commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) - Current fork of the excellent standard-version. Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org :trophy:
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [georgiai1/borica-nodejs](https://github.com/georgiai1/borica-nodejs) - 
 - [ivo-/wait-group-ts](https://github.com/ivo-/wait-group-ts) - Golang-like wait group for JavaScript/TypeScript with max concurrency limit.
@@ -1397,8 +1397,9 @@
 
 ## TypeScript 
 
+- [rshono/rshono](https://github.com/rshono/rshono) - Minimalist web framework based on Hono, Rspack and React Server Components
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
-- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work.
 - [trycompai/crm](https://github.com/trycompai/crm) - Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 - [cloudflare/nimbus](https://github.com/cloudflare/nimbus) - Docs for humans and agents, built on Astro
