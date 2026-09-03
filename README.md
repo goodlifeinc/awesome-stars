@@ -843,7 +843,6 @@
 - [ccarruitero/makemehapi](https://github.com/ccarruitero/makemehapi) - Self guided workshops to teach you about hapi.
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 - [soyuka/relieve](https://github.com/soyuka/relieve) - Ease the implementation of multi processing accross your microservices
-- [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [GeekAb/picker.js](https://github.com/GeekAb/picker.js) - A picker for dates and date ranges for multiple frameworks
 - [aivis/user-stream](https://github.com/aivis/user-stream) - Node.js Twitter user stream module.
 - [danielstocks/yak](https://github.com/danielstocks/yak) - Isomorphic ORM that maps REST resources to JavaScript models/collections. Yeah I just said that.
@@ -933,7 +932,6 @@
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
 - [CommandCodeAI/command-code](https://github.com/CommandCodeAI/command-code) - Command Code AI
 - [BlazorRepl/BlazorRepl](https://github.com/BlazorRepl/BlazorRepl) - Write, compile, execute and share Blazor components entirely in the browser
-- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
@@ -1995,6 +1993,7 @@
 - [devias-io/material-kit-react](https://github.com/devias-io/material-kit-react) - React Dashboard made with Material UI’s components. Our pro template contains features like TypeScript version, authentication system with Firebase and Auth0 plus many other
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [frontity/frontity](https://github.com/frontity/frontity) - » Frontity - The React Framework for WordPress
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [bmcmahen/react-image-enlarger](https://github.com/bmcmahen/react-image-enlarger) - Simple medium.com style image zooming with gesture support
@@ -2128,6 +2127,7 @@
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [express-validator/express-validator](https://github.com/express-validator/express-validator) - An express.js middleware for validator.js.
+- [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [angular-ui/ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
 - [sequelize/sequelize-auto](https://github.com/sequelize/sequelize-auto) - Automatically generate bare sequelize models from your database.
 
