@@ -543,7 +543,7 @@
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [ganatan/angular-node-java](https://github.com/ganatan/angular-node-java) - Angular 22 Fullstack Starter (Node.js, Spring Boot)
 - [filipsobol/sonda](https://github.com/filipsobol/sonda) - Universal visualizer and analyzer for JavaScript and CSS. Compatible with most bundlers and frameworks
-- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid, Svelte and Angular.
+- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list and grid component for React, Vue, Solid, Svelte and Angular.
 - [code-forge-io/vite-plugin-icons-spritesheet](https://github.com/code-forge-io/vite-plugin-icons-spritesheet) - Vite plugin that listens to an icon folder and outputs a spritesheet with optional types to specified location
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [analogjs/analog](https://github.com/analogjs/analog) - The fullstack meta-framework for Angular. Powered by Vite and Nitro
@@ -748,7 +748,7 @@
 ## bash 
 
 - [rfxn/advanced-policy-firewall](https://github.com/rfxn/advanced-policy-firewall) - iptables/netfilter firewall for Linux servers with stateful filtering, trust system, ipset block lists, SYN flood protection, VNET per-IP policies, and Docker support
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
@@ -1761,7 +1761,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [gini/dexter](https://github.com/gini/dexter) - [ARCHIVED] dexter is a Kubernetes OIDC helper with as much automation as possible
@@ -1803,7 +1803,7 @@
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [gini/dexter](https://github.com/gini/dexter) - [ARCHIVED] dexter is a Kubernetes OIDC helper with as much automation as possible
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -2684,7 +2684,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
@@ -3058,7 +3058,7 @@
 
 ## node 
 
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -3093,7 +3093,7 @@
 - [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [Mythfinity/imapsync-ini-wrapper](https://github.com/Mythfinity/imapsync-ini-wrapper) - Self-hostable web interface for imapsync (email migration tool). Node.js + React + Docker. AGPL-3.0.
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
@@ -3928,7 +3928,7 @@
 - [faceyspacey/react-universal-component](https://github.com/faceyspacey/react-universal-component) - 🚀 The final answer to a React Universal Component: simultaneous SSR + Code Splitting
 - [microsoft/vscode-recipes](https://github.com/microsoft/vscode-recipes) - 
 - [davidmoten/rxjava-jdbc](https://github.com/davidmoten/rxjava-jdbc) - Efficient execution and functional composition of database calls using jdbc and RxJava Observables
-- [emailmonday/Cerberus](https://github.com/emailmonday/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
+- [emailmonday/Cerberus](https://github.com/emailmonday/Cerberus) - Simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
 - [oncebot/popbox.js](https://github.com/oncebot/popbox.js) - A tiny and simple stackable modal plugin for web apps
 - [StephenGrider/docker-react](https://github.com/StephenGrider/docker-react) - 
 - [gothinkster/hapijs-realworld-example-app](https://github.com/gothinkster/hapijs-realworld-example-app) - Real World Hapi.JS + Mongoose backend implementations
@@ -4381,7 +4381,7 @@
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [onejs/one](https://github.com/onejs/one) - ❶ One lets you target React web and React Native with a single Vite plugin. Everything you need to build great websites and apps with unified routing.
 - [code-forge-io/base-stack](https://github.com/code-forge-io/base-stack) - The best way to start your react-router v7 project
-- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid, Svelte and Angular.
+- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list and grid component for React, Vue, Solid, Svelte and Angular.
 - [sqlhabit/sql_schema_visualizer](https://github.com/sqlhabit/sql_schema_visualizer) - SQL schema visualisation built with ReactFlow.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
@@ -4951,7 +4951,7 @@
 
 ## shell 
 
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
@@ -5075,7 +5075,7 @@
 - [serwist/serwist](https://github.com/serwist/serwist) - A Swiss Army knife for service workers.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
-- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid, Svelte and Angular.
+- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list and grid component for React, Vue, Solid, Svelte and Angular.
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
@@ -5574,7 +5574,7 @@
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
-- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid, Svelte and Angular.
+- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list and grid component for React, Vue, Solid, Svelte and Angular.
 - [code-forge-io/vite-plugin-icons-spritesheet](https://github.com/code-forge-io/vite-plugin-icons-spritesheet) - Vite plugin that listens to an icon folder and outputs a spritesheet with optional types to specified location
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Build mission-critical applications with stability and development freedom.
@@ -5799,7 +5799,7 @@
 ## zsh 
 
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 
