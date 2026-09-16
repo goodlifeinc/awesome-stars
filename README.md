@@ -1000,6 +1000,7 @@
 - [flyntwp/flynt](https://github.com/flyntwp/flynt) - Component based WordPress starter theme, powered by ACF Pro and Timber, optimized for performance and a11y.
 - [WPBP/generator](https://github.com/WPBP/generator) - Code Generator for the WPBP
 - [liberu-ecommerce/ecommerce-old](https://github.com/liberu-ecommerce/ecommerce-old) - Laravel 10 using PHP 8.2 backend for ecommerce website. Under development.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [dominicklee/PHP-MySQL-Sessions](https://github.com/dominicklee/PHP-MySQL-Sessions) - Easily store PHP session data in a MySQL database
 - [CE-PhoenixCart/PhoenixCart](https://github.com/CE-PhoenixCart/PhoenixCart) - CE Phoenix, E-Commerce made Easy
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
@@ -1741,7 +1742,6 @@
 - [marko-js/run](https://github.com/marko-js/run) - The Marko application framework
 - [localvoid/ivi](https://github.com/localvoid/ivi) - Lighweight Embeddable Web UI Library
 - [eclipse-glsp/glsp](https://github.com/eclipse-glsp/glsp) - Graphical language server platform for building web-based diagram editors
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [codaworks/react-glow](https://github.com/codaworks/react-glow) - 
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
