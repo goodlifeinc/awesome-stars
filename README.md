@@ -1821,7 +1821,7 @@
 - [gvergnaud/type-level-typescript-workshop](https://github.com/gvergnaud/type-level-typescript-workshop) - Interactive exercises to get familiar with TypeScript's most advanced features
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [alii/azs](https://github.com/alii/azs) - 🤓 Amplify Zod schemas with methods
-- [DoneDeal0/superdiff](https://github.com/DoneDeal0/superdiff) - Superdiff provides a rich and readable diff for arrays, objects, texts and coordinates. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependenc
+- [DoneDeal0/superdiff](https://github.com/DoneDeal0/superdiff) - Superdiff provides a rich and readable diff for arrays, objects, code, text and coordinates. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero depe
 - [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ Typescript E-commerce Platform
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [MikeBirdTech/gpt3-vscode-extension](https://github.com/MikeBirdTech/gpt3-vscode-extension) - Use GPT-3 to generate documentation and get help debugging your code
@@ -1994,7 +1994,7 @@
 - [bytedance/fe-foundation](https://github.com/bytedance/fe-foundation) - UI Foundation for React Hooks and Vue Composition Api
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [Zizzamia/perfume.js](https://github.com/Zizzamia/perfume.js) - Web performance library for measuring all performance vitals metrics
-- [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
+- [mswjs/msw](https://github.com/mswjs/msw) - The industry standard for API mocking in JavaScript.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [Elderjs/elderjs](https://github.com/Elderjs/elderjs) - Elder.js is an opinionated static site generator and web framework for Svelte built with SEO in mind.
 - [discord/focus-layers](https://github.com/discord/focus-layers) - Tiny React hooks for isolating focus within subsections of the DOM.
@@ -2063,7 +2063,7 @@
 - [Dynalon/reactive-state](https://github.com/Dynalon/reactive-state) - Redux-clone build with strict typing and RxJS down to its core. Wrist-friendly, no boilerplate or endless switch statements
 - [LeetCode-OpenSource/rxjs-hooks](https://github.com/LeetCode-OpenSource/rxjs-hooks) - React hooks for RxJS
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
-- [eggjs/egg](https://github.com/eggjs/egg) - 🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://307.run/eggcode
+- [eggjs/egg](https://github.com/eggjs/egg) - 🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://codewiki.google/github.com/eggjs/egg
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
