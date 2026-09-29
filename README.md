@@ -1420,6 +1420,7 @@
 
 ## TypeScript 
 
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [Agilo/fashion-starter](https://github.com/Agilo/fashion-starter) - Built with Medusa 2.0, this fashion-focused template offers sleek design, customizable collections, and a streamlined checkout, perfect for quick, professional e-commerce setups.
 - [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
 - [ever-works/ever-works](https://github.com/ever-works/ever-works) - Ever® Works™ - The Workshop for AI. An open agentic runtime that autonomously researches, ships, and maintains entire businesses, 24/7 - https://ever.works
