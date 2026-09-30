@@ -332,7 +332,6 @@
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
 - [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - Turn approved specs into long-running autonomous implementation. A minimal, adaptable SDD harness with Agent Skills for Claude Code, Codex, Cursor, Copilot, Windsurf, OpenCode, Gemini CLI, and Antigra
-- [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
 
 ## agents 
 
@@ -390,7 +389,7 @@
 - [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
 - [yutakobayashidev/ava](https://github.com/yutakobayashidev/ava) - Automatically share development progress to Slack through AI. MCP-powered task reporting with privacy-first design.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
@@ -426,7 +425,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -453,13 +452,14 @@
 
 - [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) - A persistent workspace for development work that self-improves and continues beyond one session.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Clau
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [Abilityai/trinity](https://github.com/Abilityai/trinity) - Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
+- [Anil-matcha/open-dots](https://github.com/Anil-matcha/open-dots) - Open-source alternative to OpenAI Dots: self-hosted AI chat, tools, approvals, connectors, and computer tasks.
 - [CommandCodeAI/command-code](https://github.com/CommandCodeAI/command-code) - Command Code AI — the best coding agent for open models.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
@@ -479,7 +479,7 @@
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [m0n0x41d/haft](https://github.com/m0n0x41d/haft) - Engineering decisions engine that know when they're stale. Frame, compare, decide — with evidence decay and parity enforcement. For Claude Code, Cursor, Gemini CLI, Codex and more.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [laiso/ts-bench](https://github.com/laiso/ts-bench) - Benchmark CLI for comparing AI coding agents on TypeScript workloads.
@@ -489,7 +489,6 @@
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
-- [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## ajax 
@@ -923,7 +922,7 @@
 - [realiti4/claude-swap](https://github.com/realiti4/claude-swap) - Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions
 - [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - The fastest way to run Qwen 3.8 Flash Next, Qwen 3.8 27B and Ternary Bonsai 2 27B on a Mac: 125 tok/s in OpenCode on an M5 Max, and a 27B model on 16 GB Macs. Native MTP speculative decoding on Apple 
 - [egoist/waku](https://github.com/egoist/waku) - ⚡ A native app for all your coding agents.
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Clau
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
@@ -941,7 +940,7 @@
 - [anymorph-ai/Claudable](https://github.com/anymorph-ai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - Turn approved specs into long-running autonomous implementation. A minimal, adaptable SDD harness with Agent Skills for Claude Code, Codex, Cursor, Copilot, Windsurf, OpenCode, Gemini CLI, and Antigra
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
-- [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
 
 ## claude-skills 
 
@@ -954,7 +953,7 @@
 - [realiti4/claude-swap](https://github.com/realiti4/claude-swap) - Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Clau
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
@@ -1091,7 +1090,7 @@
 
 ## crawler 
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
@@ -1286,7 +1285,7 @@
 
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
 - [0xType/0xProto](https://github.com/0xType/0xProto) - A high-legibility programming font engineered to minimize cognitive load.
 - [OllieWP/ollie](https://github.com/OllieWP/ollie) - Design better and build faster with Ollie, the best WordPress block theme out there.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
@@ -1561,6 +1560,7 @@
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine) - 🧘‍♂️ Open-source no-code & code web app builder
+- [Anil-matcha/open-dots](https://github.com/Anil-matcha/open-dots) - Open-source alternative to OpenAI Dots: self-hosted AI chat, tools, approvals, connectors, and computer tasks.
 
 ## finance 
 
@@ -1681,7 +1681,7 @@
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [ganatan/angular-node-java](https://github.com/ganatan/angular-node-java) - Angular 22 Fullstack Starter (Node.js, Spring Boot)
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -1730,7 +1730,6 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D.
-- [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
 
 ## git 
 
@@ -2682,7 +2681,7 @@
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
@@ -2711,6 +2710,7 @@
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
+- [Anil-matcha/open-dots](https://github.com/Anil-matcha/open-dots) - Open-source alternative to OpenAI Dots: self-hosted AI chat, tools, approvals, connectors, and computer tasks.
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
 
 ## localization 
@@ -2726,7 +2726,6 @@
 
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -2785,7 +2784,7 @@
 
 - [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) - Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
 - [AlemTuzlak/kiira](https://github.com/AlemTuzlak/kiira) - Type-check the TypeScript & JavaScript code in your Markdown against your real project — in your editor, the CLI, and CI.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [ije/md4w](https://github.com/ije/md4w) - A Markdown renderer written in Zig & C, compiled to WebAssymbly.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -2852,7 +2851,6 @@
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
-- [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 
 ## microservices 
@@ -3005,7 +3003,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests
 - [filipsobol/sonda](https://github.com/filipsobol/sonda) - Universal visualizer and analyzer for JavaScript and CSS. Compatible with most bundlers and frameworks
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Toolkit
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
@@ -3024,6 +3022,7 @@
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
 - [opennextjs/opennextjs-aws](https://github.com/opennextjs/opennextjs-aws) - Open-source Next.js adapter for AWS
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
+- [Anil-matcha/open-dots](https://github.com/Anil-matcha/open-dots) - Open-source alternative to OpenAI Dots: self-hosted AI chat, tools, approvals, connectors, and computer tasks.
 - [bagisto/nextjs-commerce](https://github.com/bagisto/nextjs-commerce) - Open source headless commerce that’s fast, flexible, and built to scale,launch stunning storefronts that convert and grow your business without limits.
 - [andrewsolonets/Azon-Shop](https://github.com/andrewsolonets/Azon-Shop) - T3-stack E-commerce website with Drizzle ORM, rating system,  persistent cart, discounts, algolia search, optimistic updates (React Query), in stock indicator, infinite scroll and order tracking. E2E 
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
@@ -3284,7 +3283,7 @@
 
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Clau
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
@@ -3313,6 +3312,7 @@
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [Superalgos/Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, 
 - [CE-PhoenixCart/PhoenixCart](https://github.com/CE-PhoenixCart/PhoenixCart) - Phoenix Cart: free, self-hosted, open-source PHP e-commerce platform. No monthly fees. Bootstrap 5, MySQL/MariaDB, hook system for customisation without core changes.
+- [Anil-matcha/open-dots](https://github.com/Anil-matcha/open-dots) - Open-source alternative to OpenAI Dots: self-hosted AI chat, tools, approvals, connectors, and computer tasks.
 - [jsdecena/laracom](https://github.com/jsdecena/laracom) - Laravel FREE E-Commerce Software
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs
 - [tsedio/tsed](https://github.com/tsedio/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code mo
@@ -3361,6 +3361,7 @@
 
 ## others 
 
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [Agilo/fashion-starter](https://github.com/Agilo/fashion-starter) - Built with Medusa 2.0, this fashion-focused template offers sleek design, customizable collections, and a streamlined checkout, perfect for quick, professional e-commerce setups.
 - [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
 - [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
@@ -4300,6 +4301,7 @@
 - [dpguthrie/yahooquery](https://github.com/dpguthrie/yahooquery) - Python wrapper for an unofficial Yahoo Finance API
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
+- [Anil-matcha/open-dots](https://github.com/Anil-matcha/open-dots) - Open-source alternative to OpenAI Dots: self-hosted AI chat, tools, approvals, connectors, and computer tasks.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
@@ -4420,7 +4422,7 @@
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Toolkit
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
@@ -4456,6 +4458,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [mozmorris/react-webcam](https://github.com/mozmorris/react-webcam) - Webcam component
 - [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
+- [Anil-matcha/open-dots](https://github.com/Anil-matcha/open-dots) - Open-source alternative to OpenAI Dots: self-hosted AI chat, tools, approvals, connectors, and computer tasks.
 - [skozer/react-instagram-zoom-slider](https://github.com/skozer/react-instagram-zoom-slider) - 🌄↔️ A slider component with pinch to zoom capabilities inspired by Instagram
 - [E-Kuerschner/useAudioPlayer](https://github.com/E-Kuerschner/useAudioPlayer) - React hooks for controlling audio on the web
 - [sammdec/use-cart](https://github.com/sammdec/use-cart) - A tiny react hook for integrating an e-commerce cart into your app
@@ -4937,6 +4940,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [CE-PhoenixCart/PhoenixCart](https://github.com/CE-PhoenixCart/PhoenixCart) - Phoenix Cart: free, self-hosted, open-source PHP e-commerce platform. No monthly fees. Bootstrap 5, MySQL/MariaDB, hook system for customisation without core changes.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
+- [Anil-matcha/open-dots](https://github.com/Anil-matcha/open-dots) - Open-source alternative to OpenAI Dots: self-hosted AI chat, tools, approvals, connectors, and computer tasks.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
@@ -5164,7 +5168,7 @@
 - [trendy-design/llmchat](https://github.com/trendy-design/llmchat) - Unified interface for AI chat, Agentic workflows and more ...
 - [RobiNN1/phpCacheAdmin](https://github.com/RobiNN1/phpCacheAdmin) - Web GUI for managing Redis, Memcached, APCu, OPCache and Realpath with data management.
 - [code-forge-io/base-stack](https://github.com/code-forge-io/base-stack) - The best way to start your react-router v7 project
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌
 - [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and block editor support
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
@@ -5369,7 +5373,7 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [openai/openai-node](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API
 - [borjapazr/express-typescript-skeleton](https://github.com/borjapazr/express-typescript-skeleton) - 🔰🦸 Template to start developing a REST API with Node.js (Express), TypeScript, Ts.ED, ESLint, Prettier, Husky, Prisma, etc.
@@ -5528,7 +5532,7 @@
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - MagenticLite is an experimental agent that works across the browser and local file system
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [RobiNN1/phpCacheAdmin](https://github.com/RobiNN1/phpCacheAdmin) - Web GUI for managing Redis, Memcached, APCu, OPCache and Realpath with data management.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
 - [localvoid/ivi](https://github.com/localvoid/ivi) - Lighweight Embeddable Web UI Library
 - [anseki/plain-draggable](https://github.com/anseki/plain-draggable) - The simple and high performance library to allow HTML/SVG element to be dragged.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
