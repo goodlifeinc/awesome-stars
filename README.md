@@ -383,7 +383,6 @@
 - [ryansolid/dom-expressions](https://github.com/ryansolid/dom-expressions) - A Fine-Grained Runtime for Performant DOM Rendering
 - [magnum6actual/flipoff](https://github.com/magnum6actual/flipoff) - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.
 - [WordPress/agent-skills](https://github.com/WordPress/agent-skills) - Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices
-- [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 - [anandanand84/technicalindicators](https://github.com/anandanand84/technicalindicators) - A javascript technical indicators written in typescript with pattern recognition right in the browser
 - [snjyor/binance-mcp](https://github.com/snjyor/binance-mcp) - Binance Cryptocurrency MCP
@@ -401,7 +400,6 @@
 - [mattdesl/extract-svg-path](https://github.com/mattdesl/extract-svg-path) - extracts a string of subpaths from an svg file
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
 - [OlivierEstevez/astro-masonry](https://github.com/OlivierEstevez/astro-masonry) - Zero-dependency responsive masonry layout component for Astro with minimal setup.
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [shspage/illustrator-scripts](https://github.com/shspage/illustrator-scripts) - JavaScript scripts for Adobe Illustrator CSx.
 - [absolute-version/commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) - Current fork of the excellent standard-version. Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org :trophy:
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -443,7 +441,6 @@
 - [devinivy/hapipal-realworld-example-app](https://github.com/devinivy/hapipal-realworld-example-app) - Exemplary real world application built with hapi pal
 - [devinivy/fishbowl](https://github.com/devinivy/fishbowl) - A realtime game built with React and hapijs 🐟
 - [mikebevz/node-imap](https://github.com/mikebevz/node-imap) - An IMAP client module for node.js.
-- [nodemailer/smtp-server](https://github.com/nodemailer/smtp-server) - Create custom SMTP servers on the fly
 - [withastro/cli-kit](https://github.com/withastro/cli-kit) - 
 - [softwaregroup-bg/ut-portal](https://github.com/softwaregroup-bg/ut-portal) - 
 - [softwaregroup-bg/ut-model](https://github.com/softwaregroup-bg/ut-model) - 
@@ -994,7 +991,7 @@
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [shopsys/shopsys](https://github.com/shopsys/shopsys) - Main repository for maintaining Shopsys Platform packages. Open for ISSUES and PULL REQUESTS.
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [kirschbaum-development/eloquent-power-joins](https://github.com/kirschbaum-development/eloquent-power-joins) - The Laravel magic you know, now applied to joins.
 - [flyimg/flyimg](https://github.com/flyimg/flyimg) - Dockerized application that resizes and crops images on the fly, delivering optimized images in formats such as AVIF, WebP, MozJPEG, or PNG using ImageMagick, with an efficient caching system.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
@@ -1165,7 +1162,7 @@
 - [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by QPDF
 - [KasRoudra2/MaxPhisher](https://github.com/KasRoudra2/MaxPhisher) - 
 - [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities s
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8m
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [Stability-AI/stable-fast-3d](https://github.com/Stability-AI/stable-fast-3d) - SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
@@ -1476,7 +1473,7 @@
 - [vudovn/ag-kit](https://github.com/vudovn/ag-kit) - 
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [productdevbook/sumak](https://github.com/productdevbook/sumak) - Type-safe SQL query builder. Zero dependencies, AST-first, hookable, tree-shakeable. Pure TypeScript.
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
@@ -1506,6 +1503,7 @@
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [microsoft/roosterjs](https://github.com/microsoft/roosterjs) - roosterjs is a framework-independent javascript rich text editor.
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
+- [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [feasibleone/blong](https://github.com/feasibleone/blong) - API and DRY focused RAD framework
 - [ajitid/fzf-for-js](https://github.com/ajitid/fzf-for-js) - Do fuzzy matching using FZF algorithm in JavaScript
 - [TinyAGI/tinyagi](https://github.com/TinyAGI/tinyagi) - TinyAGI is the agent teams orchestrator for One Person Company. (fka TinyClaw)
@@ -1614,6 +1612,7 @@
 - [isnifer/tanstack-start-ssr-hono](https://github.com/isnifer/tanstack-start-ssr-hono) - Tanstack Start (as SSR Frontend) + Hono (as API) https://tanstack-start-ssr-hono.onrender.com
 - [virattt/ai-financial-agent](https://github.com/virattt/ai-financial-agent) - A financial agent for investment research
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio) - ⚡ Build your timeless portfolio with Once UI's Magic Portfolio
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
@@ -1738,6 +1737,7 @@
 - [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async) - Thread-safe Helmet for React 16+ and friends
+- [nodemailer/smtp-server](https://github.com/nodemailer/smtp-server) - Create custom SMTP servers on the fly
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [web3templates/nextly-template](https://github.com/web3templates/nextly-template) - Nextly Landing Page Template built with Next.js & TailwindCSS
 - [bitjson/qr-code](https://github.com/bitjson/qr-code) - A no-framework, no-dependencies, customizable, animate-able, SVG-based &lt;qr-code&gt; HTML element.
