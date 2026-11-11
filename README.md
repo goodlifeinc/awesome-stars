@@ -205,7 +205,6 @@
 - [Lusitaniae/apache_exporter](https://github.com/Lusitaniae/apache_exporter) - Prometheus exporter for Apache.
 - [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) - The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [free/sql_exporter](https://github.com/free/sql_exporter) - Database agnostic SQL exporter for Prometheus
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
@@ -1459,7 +1458,7 @@
 - [productdevbook/ahize](https://github.com/productdevbook/ahize) - One unified API for 18 live-chat & customer-support widgets. Zero deps, tree-shakeable, SSR-safe, CSP-aware, strict TypeScript.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [rshono/rshono](https://github.com/rshono/rshono) - Minimalist web framework based on Hono, Rspack and React Server Components
-- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work.
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for teams
 - [trycompai/crm](https://github.com/trycompai/crm) - Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 - [cloudflare/nimbus](https://github.com/cloudflare/nimbus) - Docs for humans and agents, built on Astro
@@ -1700,6 +1699,7 @@
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [midday-ai/packrun](https://github.com/midday-ai/packrun) - npm for agents and humans
 - [Sec-ant/zxing-wasm](https://github.com/Sec-ant/zxing-wasm) - ZXing-C++ WebAssembly as an ES/CJS module with types. Read or write barcodes in various JS runtimes: Web, Node.js, Bun, and Deno.
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [code-forge-io/vite-plugin-icons-spritesheet](https://github.com/code-forge-io/vite-plugin-icons-spritesheet) - Vite plugin that listens to an icon folder and outputs a spritesheet with optional types to specified location
 - [Sec-ant/barcode-detector](https://github.com/Sec-ant/barcode-detector) - A Barcode Detection API ponyfill/polyfill that uses ZXing-C++ WebAssembly under the hood.
 - [zxing-js/library](https://github.com/zxing-js/library) - Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.
